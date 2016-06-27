@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2016-06-26 21:12:31 +0000
+categories: jekyll update
+---
+
 # Dillinger
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
