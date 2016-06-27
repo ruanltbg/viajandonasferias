@@ -1,0 +1,23 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Viajando nas férias
+email: ruanltbg@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Dicas e compartilhamento de nossas experiencias de viagens, permitindo trocar 
+  conhecimentos sobre roteiros, ajudando pessoas a organizar suas viagens sozinhas.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.viajandonasferias.com.br" # the base hostname & protocol for your site
+twitter_username: ruanltbg
+github_username:  ruanltbg
+
+# Build settings
+markdown: kramdown
+highlighter: true
+host: 0.0.0.0
+port: 3000
