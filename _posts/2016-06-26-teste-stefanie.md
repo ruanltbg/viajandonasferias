@@ -5,6 +5,8 @@ date:   2016-06-26 21:12:31 +0000
 categories: jekyll update
 ---
 
+![descricao-da-imagem](http://www.viajandonasferias.com.br/imagens/viajar-o-mundo_23-2147514191.jpg)
+
 # Dillinger
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
