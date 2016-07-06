@@ -19,7 +19,8 @@ Como em qualquer viagem para poder aproveitar ao máximo é preciso programar e 
 
 *	**Alugue um carro**, apesar do sistema público de ônibus no Canada ser ótimo, de ônibus com ar condicionado e pontos de ônibus que protegem de vento, chuva e frio, alugar um carro é uma boa ideia pois te dá autonomia para passear e fazer mais de um passeio por dia. Além disso a gasolina lá é super barata e super potente, permitindo que rode muito por muito pouco e também a maioria dos lugares para se visitar tem estacionamento, mas se for estacionar na rua tome cuidado e leia as placas pois você pode estar estacionando em lugar proibido.
 
-![Ir de uma cidade a outra, passando por estradas com esse tapete e essa vista.](http://www.viajandonasferias.com.br/imagens/post1/DSCF0295.jpg)
+![O carro possibilita realizar aquele passeio ao museu que vc programou mesmo em dias que você sai do hotel e se depara com essa neve.](http://www.viajandonasferias.com.br/imagens/post1/DSCF1005.jpg)
+*O carro possibilita realizar aquele passeio ao museu que vc programou mesmo em dias que você sai do hotel e se depara com essa neve
 
 
 * **Independente da época leve um casaco**, como disse na primeira dica, analise bem a época que você está embarcado para lá, mas mesmo que você tenha escolhido ir no verão, melhor garantir um casaco caso o tempo mude, porque com certeza isso vai acontecer. 	
