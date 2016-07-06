@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "A primeira postagem a gente nunca esquece... o primeiro destino internacional também não!!"
+title: "A primeira postagem a gente nunca esquece... o primeiro destino internacional também não!"
 date: 2016-06-30 15:26:31 -0700
 categories: post
 ---
 
 
-### A primeira postagem a gente nunca esquece... o primeiro destino internacional também não!! 
+### A primeira postagem a gente nunca esquece... o primeiro destino internacional também não! 
 
 
 Não poderia começar este blog sem falar da nossa primeira viagem de avião, o que foi muito marcante para nós. O primeiro destino escolhido foi o CANADÁ.
