@@ -19,6 +19,9 @@ Como em qualquer viagem para poder aproveitar ao máximo é preciso programar e 
 
 *	**Alugue um carro**, apesar do sistema público de ônibus no Canada ser ótimo, de ônibus com ar condicionado e pontos de ônibus que protegem de vento, chuva e frio, alugar um carro é uma boa ideia pois te dá autonomia para passear e fazer mais de um passeio por dia. Além disso a gasolina lá é super barata e super potente, permitindo que rode muito por muito pouco e também a maioria dos lugares para se visitar tem estacionamento, mas se for estacionar na rua tome cuidado e leia as placas pois você pode estar estacionando em lugar proibido.
 
+![Ir de uma cidade a outra, passando por estradas com esse tapete e essa vista.](http://www.viajandonasferias.com.br/imagens/post1/DSCF0295.jpg)
+
+
 * **Independente da época leve um casaco**, como disse na primeira dica, analise bem a época que você está embarcado para lá, mas mesmo que você tenha escolhido ir no verão, melhor garantir um casaco caso o tempo mude, porque com certeza isso vai acontecer. 	
 
 * **Inglês/Francês**. O Canadá possui duas línguas oficiais, o Inglês que é aceito em todo Canada e o Francês que é falado na província de Quebec, por tanto caso queira visitar alguma cidade da província de Quebec recomendo que leve um dicionário Francês, pois lá com certeza você vai usar para ler um menu de restaurante no mínimo. 
