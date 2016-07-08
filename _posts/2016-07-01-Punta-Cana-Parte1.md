@@ -13,10 +13,10 @@ A escolha por julho na verdade se deu em função de uma promoção de passagem 
 
 Nosso vôo foi pela Avianca na classe econômica, companhia aérea muito séria, o avião confortável tinha opções de entretenimento e serviço de bordo muito bom. Decolamos do aeroporto Galeão no Rio de Janeiro com escala em Bogotá – Colômbia para depois chegar em Punta Cana.
 
-![Aviao Avianca](http://www.viajandonasferias.com.br/imagens/post2/aviao.jpg)
+![Aviao Avianca](http://www.viajandonasferias.com.br/imagens/post2/aviao1.jpg)
 > O monitor disponível era touch screen e ainda possuía controle para facilitar usar o entretenimento no seu assento. Filmes, séries de tv e jogos estavam disponíveis bem como detalhes de percurso da viagem.
 
-![Aviao Avianca](http://www.viajandonasferias.com.br/imagens/post2/aviao1.jpg)
+![Aviao Avianca](http://www.viajandonasferias.com.br/imagens/post2/aviao2.jpg)
 > A distância entre um assento e outro também é muito bom e bem confortável. 
 
 ![Aviao Avianca](http://www.viajandonasferias.com.br/imagens/post2/aviao3.jpg)
