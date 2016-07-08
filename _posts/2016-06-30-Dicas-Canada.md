@@ -2,7 +2,7 @@
 layout: post
 title: "A primeira postagem a gente nunca esquece... o primeiro destino internacional também não!"
 date: 2016-06-30 15:26:31 -0700
-categories: post
+categories: Dica
 ---
 
 
