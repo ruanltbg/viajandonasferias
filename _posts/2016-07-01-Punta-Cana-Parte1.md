@@ -13,13 +13,16 @@ A escolha por julho na verdade se deu em função de uma promoção de passagem 
 
 Nosso vôo foi pela Avianca na classe econômica, companhia aérea muito séria, o avião confortável tinha opções de entretenimento e serviço de bordo muito bom. Decolamos do aeroporto Galeão no Rio de Janeiro com escala em Bogotá – Colômbia para depois chegar em Punta Cana.
 
-![Aviao Avianca](http://www.viajandonasferias.com.br/imagens/post2/aviao1.jpg)
+![Aviao Avianca](http://www.viajandonasferias.com.br/imagens/post2/aviao.jpg)
 > O monitor disponível era touch screen e ainda possuía controle para facilitar usar o entretenimento no seu assento. Filmes, séries de tv e jogos estavam disponíveis bem como detalhes de percurso da viagem.
 
-![Aviao Avianca](http://www.viajandonasferias.com.br/imagens/post2/aviao2.jpg)
+![Aviao Avianca](http://www.viajandonasferias.com.br/imagens/post2/aviao1.jpg)
 > A distância entre um assento e outro também é muito bom e bem confortável. 
 
-![Aviao Avianca](http://www.viajandonasferias.com.br/imagens/post2/aviao3.jpg)
+![Aviao Avianca](http://www.viajandonasferias.com.br/imagens/post2/aviao2.jpg)
+> O avião era bem novinho, o sistema ventilação era ótimo, durante toda a viagem o ar estava fresquinho. 
+
+![Aeroporto de Punta Cana](http://www.viajandonasferias.com.br/imagens/post2/aviao3.jpg)
 > Recebemos jantar e café da manhã, as duas refeições estavam uma delícia, no jantar tinham duas opções eu escolhi a massa acompanhada a uma saladinha bem fresquinha... nham nham 
 
 Durante o vôo do Rio até Bogotá foi tranquilo, sem turbulência e seguindo o tempo estimado de vôo, porém devido obras no aeroporto de Bogotá tivemos que esperar uns minutos dentro do avião até conseguir um local para desembarcar e essa espera quase nos fez perder o vôo para Punta Cana, mas devido ao rápido atendimento da Avianca passamos por corredores e escadas alternativos correndinho mas conseguimos chegar ao avião, porém nossas malas não, e quando chegamos em Punta Cana a surpresa de não termos nossas malas despachadas.
