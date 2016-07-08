@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "Sol, praia, calor?? Vem comigo!! - Parte 2"
+title:  "Sol, praia, calor? Vem comigo! - Parte 2"
 date:   2016-06-30 16:00:31 +0000
 categories: jekyll update
 ---
 
-
-## Sol, praia, calor?? Vem comigo!! - Parte 2
 
 Conforme última postagem, vou continuar falando sobre minha experiência em Punta Cana na Republica Domenicana. Agora vou falar como foram nossas experiências com os hotéis que ficamos e os passeios que fizemos.
 
