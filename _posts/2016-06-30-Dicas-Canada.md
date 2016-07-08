@@ -18,7 +18,7 @@ As opções são muitas para viajar e conhecer todo o Canadá, é possível de t
 ![É muito charme em uma cidade só, Quebec classica e moderna você escolhe.](http://www.viajandonasferias.com.br/imagens/post1/Quebec.jpg)
 > É muito charme em uma cidade só, Quebec clássica ou moderna você escolhe.
 
-![Niagara Falls é aquele lugar que doi o coração na hora de partir.](http://www.viajandonasferias.com.br/imagens/post1/Niagara Falls.jpg)
+![Niagara Falls é aquele lugar que doi o coração na hora de partir.](http://www.viajandonasferias.com.br/imagens/post1/Niagar Falls.jpg)
 > Niagara Falls é aquele lugar que doi o coração na hora de partir.
 
 Como em qualquer viagem para poder aproveitar ao máximo é preciso programar e organizar bem o que será visto, os lugares e comidinhas que não podem ficar de fora ao visitar cada cidade, os dias de visita em cada passeio para viajar ao Canadá não é diferente . Quem escolhe ir para esse país encantador, precisa ter algumas coisas em mente que mais abaixo vou justificar porque é preciso planejar esses pontos antes de ir pra lá:
