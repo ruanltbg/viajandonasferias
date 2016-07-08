@@ -53,7 +53,7 @@ Dentro do hotel existem o serviço de câmbio e também de excursões, as opçõ
 
 Quem escolhe viajar para Punta Cana tem que estar preparado para ver paisagens paradisíacas, aquelas imagens que se vê em filmes, lugares lindos e inesquecíveis, com opções de diversão para todas as idades. 
 
-Na próxima postagem vou terminar sobre nossa experiência em Punta Cana, porque foi tanta coisa vivida lá e tantos lugares bonitos que fica difícil escolher o que dizer para vocês, então vou dizer o máximo que puder!!
+Na próxima postagem vou terminar de contar sobre nossa experiência em Punta Cana, porque foi tanta coisa vivida lá e tantos lugares bonitos que fica difícil escolher o que dizer para vocês, então vou dizer o máximo que puder!!
 
 
 Beijuu e até a próxima!!!
