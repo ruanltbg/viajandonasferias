@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sol, praia, calor?? Vem comigo!! - Parte 3"
-date:   2016-06-30 16:08:31 +0000
+date:   2016-07-03 16:08:31 +0000
 categories: jekyll update
 ---
 
@@ -10,6 +10,8 @@ categories: jekyll update
 
 Olá meus queridos!! Essa postagem sobre nossa experiência em Punta Cana está rendendo não é mesmo?? Mas esse será o ultimo da saga...hihihihihihi 
 
+**Passeios**
+
 Continuando de onde parei, no segundo dia de passeio em Punta Cana, fomos pela mesma empresa do primeiro dia, pois este passeio foi uma cortesia da empresa por ter feito o passeio com os golfinhos, arraias, tubarões etc. Neste passeio a empresa foi nos buscar no hotel e levou até a lancha que nos levou para mergulhar em aguas cristalinas em contato próximo à peixes, corais e objetos naufragados.
 
 Depois do mergulho a lancha parou em uma ilha em Catamaran, local onde muitos barcos param e é uma região com água super clara não muito fundo e sem onda, onde qualquer um pode aproveitar a natureza a vontade.
@@ -17,6 +19,8 @@ Depois do mergulho a lancha parou em uma ilha em Catamaran, local onde muitos ba
 Depois do passeio, no barco já voltando para a base, foi servido um lanchezinho simples mas que veio em boa hora, porque depois de passar algumas horas na água a fome bate forte e além do lanche tocaram música e o pessoal do barco fez um entretenimento fazendo dancinhas para animar o pessoal.
 
 Então, para o nosso perfil viajante,  decidimos que os dois dias passeios já estaria de bom tamanho pois o próximo hotel que ficaríamos os próximos 7 dias tinha um pouco mais de opções e então tiramos os dias para aproveitar as atrações do hotel.
+
+**Hotel Bávaro Princess**
 
 Após aproveitar os 7 dias no Caribe Club Princess, fomos até outro hotel da mesma rede Bávaro Princess. Neste hotel também ficamos 7 dias hospedados, porém neste pegamos bangalôs individuais bem próximo da praia, as instalações eram incríveis!! Me senti uma rainha durante a estadia nesse hotel, no quarto todos os dias tinha uma decoração diferente no quarto, no dia que chegamos até pétalas de rosas. 
 
