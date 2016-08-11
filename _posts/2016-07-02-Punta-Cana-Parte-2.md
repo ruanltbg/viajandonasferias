@@ -10,6 +10,8 @@ Conforme última postagem, vou continuar falando sobre minha experiência em Pun
 
 As opções de hotéis em Punta Cana são muitas, você pode escolher qual se encaixa mais no seu perfil de viajante, além de decidir por qual praia, pois a costa litoranea é enorme e cada uma com sua beleza peculiar, tendo tudo isso em mente nós resolvemos que ficaríamos 7 dias em um hotel e 7 dias em outro, ambos da mesma rede de hotéis e mesma praia de Bávaro.
 
+** Hotel Caribe Club Princess**
+
 O primeiro hotel que ficamos foi o Caribe Clube Princess da rede de hotéis Princess. O hotel é maravilhoso, é enorme mas tem um trenzinho que passa próximo das acomodações para transportar os hóspedes dentro do hotel. Este hotel tem a opção de All-inclusive, que é aquele pacote que você paga um valor de diária e pode comer e beber tudo a vontade em qualquer restaurante do hotel. Este pacote valeu a pena neste hotel, pois a região que ele está é complicado para sair comer e se for pagar por refeição por pessoa no hotel o preço pode ser meio salgado.
 
 ![Suíte Caribe Club Princess](http://www.viajandonasferias.com.br/imagens/post3/caribe.jpg)
@@ -33,6 +35,8 @@ Além de comida e bebida, o hotel tinha opções de entretenimento tais como dis
 
 ![Externo Caribe Club Princess](http://www.viajandonasferias.com.br/imagens/post3/hotel2.jpg)
 > Espetáculo teatral do Rei Leão, houve interação com o público infantil  e muita produção de som, luzes e fumaça. 
+
+**Passeios**
 
 Dentro do hotel existem o serviço de câmbio e também de excursões, as opções são muitas, nós decidimos fazer um passeio que era de dois dias, no pacote incluía o transporte de ida e volta nos dois dias de passeio, no primeiro dia fomos até uma praia onde vimos e interagimos com golfinhos, arraias, focas, leões marinhos e tubarões. A empresa oferecia coletes, óculos e snorkel de mergulho, além de oferecer armários para guarda de pertences.
 
