@@ -11,6 +11,8 @@ As praias lá são paradisíacas, água cristalina, areia branca, resorts cinco 
 
 A escolha por julho na verdade se deu em função de uma promoção de passagem aérea, mas mesmo a promoção sendo ótima antes de comprar pesquisamos se essa época do ano seria uma boa, porque mesmo sendo uma região bem quente o ano todo, existem períodos que ocorrem muitas chuvas e até mesmo furacões, então vale a pena pesquisar a época antes de comprar as passagens.
 
+**O avião**
+
 Nosso vôo foi pela Avianca na classe econômica, companhia aérea muito séria, o avião confortável tinha opções de entretenimento e serviço de bordo muito bom. Decolamos do aeroporto Galeão no Rio de Janeiro com escala em Bogotá – Colômbia para depois chegar em Punta Cana.
 
 ![Aviao Avianca](http://www.viajandonasferias.com.br/imagens/post2/aviao.JPG)
@@ -29,11 +31,15 @@ Durante o vôo do Rio até Bogotá foi tranquilo, sem turbulência e seguindo o 
 
 Outras pessoas que estavam no nosso vôo também tiveram a mesma sorte que a nossa com as malas, então um funcionário da Avianca nos atendeu ali mesmo perto das esteiras de restituição de bagagem e fizeram um protocolo afirmando que assim que nossas malas chegassem iriam ser enviadas ao nosso hotel, e assim foi, depois de dois dias nossas malas estavam no nosso quarto de hotel, mas essa experiência nos mostrou como é importante levar trocas de roupa na bolsa de mão!
 
+**O Aeroporto**
+
 ![Aeroporto de Punta Cana](http://www.viajandonasferias.com.br/imagens/post2/aeroporto.jpg)
 > O aeroporto de Punta Cana é bem simples, não tem finger, você desse direto na pista e continua até a área de desembarque, apesar de simples é bem organizado, limpo e o pessoal de apoio é muito simpático.
 
 
 Logo depois de fazer o protocolo da Avianca fomos até a parte de imigração do aeroporto, pagamos uma taxa para entrar no país, e finalmente chegamos na área desembarque, essa parte é uma loucura, cheia de operadores de taxi e vans que fazem o translado até os hotéis. Nós optamos por um taxi mesmo, na área externa do aeroporto.
+
+**O taxi**
 
 O taxi foi relativamente barato, se comparar as outras opções e a distância. O trajeto até o hotel foi tranquilo, haviam várias obras na pista, mas não prejudicou em nada nossa chegada até o hotel, pois a estrada era muito boa. 
 
