@@ -1,12 +1,10 @@
 ---
 layout: post
 title:  "Paraíso?? Cancún é pra lá que eu vou!!!"
-date:   2016-06-30 16:08:31 +0000
+date:   2016-07-04 16:08:31 +0000
 categories: jekyll update
 ---
 
-
-## Paraíso?? Cancún é pra lá que eu vou!!!
 
 Olá gente querida!!! Ainda no embalo de sol, praia e calor, esta postagem vai para aqueles que estão programando uma visitinha em uma das praias mais cobiçadas do mundo todo e que pra mim é o paraíso na terra, a deliciosa CANCUN!!!
 
