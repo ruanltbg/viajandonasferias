@@ -6,8 +6,6 @@ categories: jekyll update
 ---
 
 
-## Sol, praia, calor?? Vem comigo!! - Parte 3
-
 Olá meus queridos!! Essa postagem sobre nossa experiência em Punta Cana está rendendo não é mesmo?? Mas esse será o ultimo da saga...hihihihihihi 
 
 **Passeios**
