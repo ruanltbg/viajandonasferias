@@ -2,7 +2,7 @@
 layout: post
 title:  "Paraíso?? Cancún é pra lá que eu vou!!!"
 date:   2016-07-04 16:08:31 +0000
-categories: jekyll update
+categories: Diario de Bordo
 ---
 
 
@@ -11,6 +11,8 @@ Olá gente querida!!! Ainda no embalo de sol, praia e calor, esta postagem vai p
 Para poder contar para vocês tintin por tintin do que dizemos nessa viagem, vou dividir essa postagem em duas, mas garanto que vai valer a pena conferir ;)
 
 Só para variar um pouco, conseguimos ir para esse destino lindo de viver com uma mega promoção da cia aérea Delta e pagamos muitoooo, mas muitooo barato nesse vôo, porém tivemos que vencer alguns aeroportos e cerca de 20 hrs para chegar até Cancun, então te digo se você estiver com muita vontade de ir para Cancun e encontrar uma promoção que vc paga duas passagens pelo preço de uma... COMPRAAAA MEU FILHO!!! VALE A PENA!!!! ESSE LUGAR VALE QUALQUER ESFORÇO!!
+
+
 
 Bom agora vou explicar o porquê demoramos tanto para chegar lá, começa que morávamos em uma cidade que não tinham voos direto para lá, então necessariamente tínhamos que fazer escala no Brasil e aqui a cidade de conexão foi São Paulo (Guarulhos) que fizemos com a GOL, depois já com a Delta só demos tchauzinho lá de cima para Cancun e passamos direto, a próxima escala foi em Atlanta (EUA) para então chega em Cancun. É importante frisar que se você planeja fazer uma conexão como a nossa e economizar algumas doletas você precisa ter visto americano, pode ser o de transição ou de turista mesmo, se não tiver melhor pegar outro lugar para fazer a conexão, ok??
 
