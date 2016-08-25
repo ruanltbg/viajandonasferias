@@ -44,18 +44,38 @@ Após aproveitar os 7 dias no Caribe Club Princess, fomos até outro hotel da me
 ![Bávaro Princess Map](http://www.viajandonasferias.com.br/imagens/post4/mapahotel.jpg)
 > Mapa do hotel, pela foto já dá para ver como é enooormee
 
-![Quarto](http://www.viajandonasferias.com.br/imagens/post4/quarto.jpg)
-> Fotos do quarto que ficamos, era composto por sala, com frigobar e um minibar, uma mesinha e um sofá, depois o quarto com o degrau para ter acesso a cama e ao lado a banheira de hidromassagem grande e logo em seguida o banheiro com estação de banho separada.
+![bungalow](http://www.viajandonasferias.com.br/imagens/post4/quarto1.jpg)
+
+![bungalow](http://www.viajandonasferias.com.br/imagens/post4/quarto2.jpg)
+
+![bungalow](http://www.viajandonasferias.com.br/imagens/post4/quarto3.jpg)
+
+![bungalow](http://www.viajandonasferias.com.br/imagens/post4/quarto4.jpg)
+
+![bungalow](http://www.viajandonasferias.com.br/imagens/post4/quarto5.jpg)
+
+![bungalow](http://www.viajandonasferias.com.br/imagens/post4/quarto6.jpg)
+
+> Fotos do bungalow que ficamos, era composto por sala, com frigobar e um minibar, uma mesinha e um sofá, depois o quarto com o degrau para ter acesso a cama e ao lado a banheira de hidromassagem grande e logo em seguida o banheiro com estação de banho separada.
 
 ![Quarto área externo](http://www.viajandonasferias.com.br/imagens/post4/quarto7.jpg)
-> Além do bangalô ser grande e bem equipado ainda tinha essa varandinha com essa vista caso queira descansar ao ar livre.
+> Além do bungalow ser grande e bem equipado ainda tinha essa varandinha com essa vista caso queira descansar ao ar livre.
 
 ![Quarto decoração](http://www.viajandonasferias.com.br/imagens/post4/quarto8.jpg)
 > Uma das decorações feitas na cama, cada dia tinha uma diferente... eu particularmente adoro esses mimos.
 
 Além do quarto ser muito completo, o hotel também não deixava nada a desejar tinha de tudo, vários restaurantes, de comida de tudo quanto é jeito tinha até um que era chiquérrimo com comidas internacionais, entretenimento o dia todo, spa, academia, cassino, um canteirinho com animais e se você achasse pouco poderia visitar a estrutura de qualquer outro hotel da rede Princess em Punta Cana com transporte gratuito e exclusivo... um luxo só.
 
-![Pratos restaurantes hotel](http://www.viajandonasferias.com.br/imagens/post4/comidas.jpg)
+![Pratos restaurantes hotel](http://www.viajandonasferias.com.br/imagens/post4/comida1.jpg)
+
+![Pratos restaurantes hotel](http://www.viajandonasferias.com.br/imagens/post4/comida2.jpg)
+
+![Pratos restaurantes hotel](http://www.viajandonasferias.com.br/imagens/post4/comida3.jpg)
+
+![Pratos restaurantes hotel](http://www.viajandonasferias.com.br/imagens/post4/comida4.jpg)
+
+![Pratos restaurantes hotel](http://www.viajandonasferias.com.br/imagens/post4/comida5.jpg)
+
 > Comidinhas do dia a dia, uma mais gostosa que a outra, teve direito até a fundue salgado e doce...nham nham
 
 ![Animais Hotel](http://www.viajandonasferias.com.br/imagens/post4/coelhinho.jpg)
@@ -85,6 +105,7 @@ Agora eu me vou!! Sintam-se abraçados e beijados!!!
 Até a próxima!!
 
 *Links úteis:*
+
 Passeio de catamaran - http://dolphinexplorer.com/programs/cruiser/
 
 Hotel Bavaro Princess - http://www.princess-hotels.com/en/hotels-punta-cana-hotel-bavaro-princess-all-suites-resort-spa-casino-5-stars.html
