@@ -2,7 +2,7 @@
 layout: post
 title:  "Sol, praia, calor?? Vem comigo!! - Parte 3"
 date:   2016-07-03 16:08:31 +0000
-categories: jekyll update
+categories: Diario de Bordo
 ---
 
 
