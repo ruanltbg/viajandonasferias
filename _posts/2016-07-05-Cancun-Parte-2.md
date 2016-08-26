@@ -11,71 +11,71 @@ Conforme prometi, nessa postagem vou contar para vocês como foi a hospedagem no
 
 Agora chega de papo e vamos ao que interessa!! Vamos começar pelo hotel, chegamos no Krystal Cancun por volta das 14hrs do horário local, no momento do check-in nos perguntaram se estávamos comemorando algo e dissemos que sim, pois era meu aniversario, então o atendente disse que ia verificar o que seria possível para nos presentear, mas que nosso quarto ainda não estava pronto e que deveríamos esperar até s 15hrs. Então como estávamos com fome e empolgados para conhecer tudo, deixamos as malas no hotel e fomos bater perna.
 
-![Krystal Cancun](http://www.viajandonasferias.com.br/imagens/post5/chegadakrystal.jpg)
+![Krystal Cancun](http://www.viajandonasferias.com.br/imagens/post6/chegadakrystal-.jpg)
 > Aquela fotinha para registrar a chegada ao hotel, o hotel era bem novinho, muito bem decorado e bem moderno. Nota 10!!
 
 Ali pertinho do hotel já identificamos onde eram os pontos que poderíamos ir a noite, jantar, comprar etc. E como a fome estava batendo na porta resolvemos fazer uma boquinha no Carlos`n Charlie`s, pedimos uma porção de nachos para nós dois, pois íamos pedindo conforme a fome persistisse, porém a porção era tão grande que quase não conseguimos vencer, por isso aqui vai a dica, quando pedir os pratos em Cancun, vá com calma, pois a maioria das porções lá são bem grandes.
 
-![Região do Hotel](http://www.viajandonasferias.com.br/imagens/post5/regiao hotel.jpg)
+![Região do Hotel](http://www.viajandonasferias.com.br/imagens/post6/regiao hotel-.jpg)
 > Apenas alguns metros do hotel e chegamos a parte mais agitada de Cancun, onde fica o CocoBongo, Mandala, LaVaquita e outras baladas conhecidas, além de um vasto comercio de rua e lugares para comer.
 
-![Carlos`n Charles](http://www.viajandonasferias.com.br/imagens/post5/carlosncharles.jpg)
+![Carlos`n Charles](http://www.viajandonasferias.com.br/imagens/post6/carlosncharlies-.jpg)
 > Restaurante Charlie`n Charlie`s lugar onde escolhemos para nossa primeira refeição em Cancun, o lugar parece um pub irlandês, mas a comida é mexicana...rsrsrsrsrsrsrs.
 
-![Porção de Nachos Carlos`n Charles](http://www.viajandonasferias.com.br/imagens/post5/nachos.jpg)
+![Porção de Nachos Carlos`n Charles](http://www.viajandonasferias.com.br/imagens/post6/nachos-.jpg)
 > Pense em prato enorme... é esse!! Além de grande, uma delícia!! Para os amantes de comida mexicana é uma boa pedida, vale muito a pena.
 
 De barriga cheia e feito o reconhecimento da região, já era hora de ir, chegamos no hotel e fomos para o quarto, e quando chegamos, o quarto era realmente muito bom, super amplo, com uma cama king, tinha cozinha equipada com pia, armários, micro-ondas e frigobar, banheiro com banheira, enfim não deixou nada a desejar em nenhum quesito, mas o melhor ainda estava por vir, tinha uma janela enorme e quando abrimos a cortina, vimos que estávamos beira mar, e como estávamos no térreo, era só sair do quarto e cair na piscina. MARAVILHOSO!!!
 
-![Piscina Hotel](http://www.viajandonasferias.com.br/imagens/post5/hotel-.jpg)
+![Piscina Hotel](http://www.viajandonasferias.com.br/imagens/post6/hotel-.jpg)
 > Região da piscina principal, com muitas espreguiçadeiras bem propícias para tomar banho de sol, já que essa parte é dificil de achar sombras. 
 
-![Piscina Hotel](http://www.viajandonasferias.com.br/imagens/post5/hotel 2.jpg)
+![Piscina Hotel](http://www.viajandonasferias.com.br/imagens/post6/hotel 2.jpg)
 
-![Piscina Hotel](http://www.viajandonasferias.com.br/imagens/post5/hotel 4-.jpg)
+![Piscina Hotel](http://www.viajandonasferias.com.br/imagens/post6/hotel 4-.jpg)
 > Piscina principal, confesso que é bem gelada, acho que eles resfriam a água, porque sempre estava super gelada independente do sol e calor que fizesse, nesta piscina tinha aulas de dança e aérobica.
 
-![Praia Hotel](http://www.viajandonasferias.com.br/imagens/post5/hotel 3-.jpg)
+![Praia Hotel](http://www.viajandonasferias.com.br/imagens/post6/hotel 3-.jpg)
 > Praia em frente ao hotel, devido aquelas pedras ao fundo essa parte é privilegiada por nao ter ondas, o que faz essa parte da praia uma das melhores para mergulhar pois é possível ver vários peixinhos e é possível ver o quão cristalina é a água.
 
 Depois de curtir o hotel, passados alguns dias fomos para o nosso primeiro passeio, que foi ao Xcaret, mais abaixo vou colocar o site onde compramos nossos ingressos. Esse parque é sensacional de todos os pontos, por isso, adiante ainda vou fazer uma postagem para falar somente desse complexo todo para você decidir o que vai conhecer. Para irmos até o compramos o translado do parque mesmo, junto com os ingressos, e logo cedo o ônibus do parque parou na recepção do hotel e logo partimos, fizemos uma parada na metade do caminho, onde foram feitas as distribuições de passageiros, pois o Xcaret é um complexo de parques enorme, então de acordo com seu pacote vc pega o ônibus específico para o destino, pegamos nosso ônibus e agora direto para o parque.
 
-![Entrada Xcaret](http://www.viajandonasferias.com.br/imagens/post5/xcaret-.jpg)
+![Entrada Xcaret](http://www.viajandonasferias.com.br/imagens/post6/xcaret-.jpg)
 > Aquário na entrada para o parque.
 
 Este dia foi sensacional, do começo ao fim o parque foi maravilhoso, no dia não estava muito calor e agua estava bem gelada, mas isso não comprometeu em nada nosso passeio.
 
-![Xcaret Gruta](http://www.viajandonasferias.com.br/imagens/post5/xcaretgruta1-.jpg)
+![Xcaret Gruta](http://www.viajandonasferias.com.br/imagens/post6/xcaretgruta1-.jpg)
 
-![Xcaret Gruta entrada](http://www.viajandonasferias.com.br/imagens/post5/xcaretgruta-.jpg)
+![Xcaret Gruta entrada](http://www.viajandonasferias.com.br/imagens/post6/xcaretgruta-.jpg)
 > Essa é escadinha de entrada para fazer o caminho pelo rio de água cristalina que atravessa o parque, logo na chegada a equipe do parque direciona os turistas para fazer esse passeio e fornecem coletes e nadadeiras. 
 
-![Xcaret Gruta passeio](http://www.viajandonasferias.com.br/imagens/post5/xcaretgruta 2-.jpg)
+![Xcaret Gruta passeio](http://www.viajandonasferias.com.br/imagens/post6/xcaretgruta 2-.jpg)
 > Aí to eu tentando posar para tirar foto...hahaahahaha, mas o caminho é lindo com essas paredes de pedras, grutas e natureza abundante. 
 
-![Xcaret Parque](http://www.viajandonasferias.com.br/imagens/post5/xcaretparque-.jpg)
+![Xcaret Parque](http://www.viajandonasferias.com.br/imagens/post6/xcaretparque-.jpg)
 
-![Xcaret Parque](http://www.viajandonasferias.com.br/imagens/post5/xcaretparque2.jpg)
+![Xcaret Parque](http://www.viajandonasferias.com.br/imagens/post6/xcaretparque2.jpg)
 > Uma das piscinas naturais, o parque oferece snorkel e nadadeiras para contemplar a vida marinha dessa região. 
 
-![Xcaret Restaurante](http://www.viajandonasferias.com.br/imagens/post5/xcaretrestaruant1.jpg)
+![Xcaret Restaurante](http://www.viajandonasferias.com.br/imagens/post6/xcaretrestaruant1-.jpg)
 
-![Xcaret Parque](http://www.viajandonasferias.com.br/imagens/post5/xcaretretrestaruant-.jpg)
+![Xcaret Parque](http://www.viajandonasferias.com.br/imagens/post6/xcaretretrestaruant-.jpg)
 > Restaurante La Coccina um dos restaurantes disponíveis dentro do parque, onde cada restaurante serve uma especialidade diferente, este serve comida mexicana, a variadade de pratos impresionam.
 
 E na volta para o hotel tinham uma fila de ônibus e você pegava de acordo com o letreiro que informava para qual hotel estava indo, super fácil e tranquilo.
 
 Depois do XCaret, demos um intervalo para recuperar as energias e fomos para outro passeio, no Aquaworld, o local fica na zona hoteleira mesmo o que facilita a chegada, nós fomos até o Aquaworld de ônibus convencional mesmo, pegamos o ônibus quase na frente do hotel e descemos na porta do passeio.
 
-![Jungle Tour](http://www.viajandonasferias.com.br/imagens/post5/jungletour-.jpg)
+![Jungle Tour](http://www.viajandonasferias.com.br/imagens/post6/jungletour-.jpg)
 > Lanchinha dirigida pelo maridão, rumo a região do mergulho. Aí é mão no acelerador e pé na "estrada".
 
 O Aquaworld é uma empresa que oferece vários tipos de passeios, nós fizemos o jungle tour, que consiste em você pilotando uma lanchinha vai até uma região afastada, faz um mergulho para a ver vida marinha e depois volta também pilotando a lanchinha. Esse passeio foi supertranquilo, é um passeio que leva a manha toda, para diririgr a lancha não é necessário ter carteira de motorista, mas se vc está planejando fazer esse passeios com crianças, recomendo que certifique-se se é permitido, pois não vimos nenhuma criança realizando esse passeio, ok?
 
-![Jungle Tour](http://www.viajandonasferias.com.br/imagens/post5/jungletour2-.jpg)
+![Jungle Tour](http://www.viajandonasferias.com.br/imagens/post6/jungletour2-.jpg)
 > O "sistema de navegação"é bem simples tem a alavanca que se empurrada para frente acelerada e para tráz freia, o volante é bem sensével para fazer as curvas, mas o trajeto é na sua maioria feito em linha reta. 
 
-![Jungle Tour](http://www.viajandonasferias.com.br/imagens/post5/jungletour3-.jpg)
+![Jungle Tour](http://www.viajandonasferias.com.br/imagens/post6/jungletour3-.jpg)
 > Região de mergulho, guiados vemos variedade de peixes, arraias, tartarugas e objetos naufragados. 
 
 Depois dos passeios, resolvemos aproveitar os próximos dias para curtir o hotel, a praia, e passeios mais curtos por Cancun mesmo, o que foi ótimo para recarregar as baterias e encarar novamente as conexões aéreas.
