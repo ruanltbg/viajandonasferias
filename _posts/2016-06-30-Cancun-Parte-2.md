@@ -2,10 +2,8 @@
 layout: post
 title:  "Paraíso?? Cancún é pra lá que eu vou!!! - Parte 2"
 date:   2016-06-30 16:08:31 +0000
-categories: jekyll update
+categories: Diario de Bordo
 ---
-
-## Paraíso?? Cancún é pra lá que eu vou!!! - Parte 2
 
 Seguindo meus amores com a viagem dos sonhos!! CANCÚN...
 
