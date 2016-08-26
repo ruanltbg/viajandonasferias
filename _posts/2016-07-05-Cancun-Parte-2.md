@@ -9,7 +9,7 @@ Seguindo meus amores com a viagem dos sonhos!! CANCÚN...
 
 Conforme prometi, nessa postagem vou contar para vocês como foi a hospedagem no Krystal Cancun e como foram ao passeios... aiaiai só de ver as fotos já enche os olhos, espero que quando estiverem lendo consigam sentir essa mesma sensação.
 
-*Localização Hotel Krystal Cancun*
+**Localização Hotel Krystal Cancun**
 
 Agora chega de papo e vamos ao que interessa!! Vamos começar pelo hotel, chegamos no Krystal Cancun por volta das 14hrs do horário local, no momento do check-in nos perguntaram se estávamos comemorando algo e dissemos que sim, pois era meu aniversario, então o atendente disse que ia verificar o que seria possível para nos presentear, mas que nosso quarto ainda não estava pronto e que deveríamos esperar até s 15hrs. Então como estávamos com fome e empolgados para conhecer tudo, deixamos as malas no hotel e fomos bater perna.
 
@@ -27,7 +27,7 @@ Ali pertinho do hotel já identificamos onde eram os pontos que poderíamos ir a
 ![Porção de Nachos Carlos`n Charles](http://www.viajandonasferias.com.br/imagens/post6/nachos-.jpg)
 > Pense em prato enorme... é esse!! Além de grande, uma delícia!! Para os amantes de comida mexicana é uma boa pedida, vale muito a pena.
 
-*Piscina e Praia Hotel Krystal Cancun*
+**Piscina e Praia Hotel Krystal Cancun**
 
 De barriga cheia e feito o reconhecimento da região, já era hora de ir, chegamos no hotel e fomos para o quarto, e quando chegamos, o quarto era realmente muito bom, super amplo, com uma cama king, tinha cozinha equipada com pia, armários, micro-ondas e frigobar, banheiro com banheira, enfim não deixou nada a desejar em nenhum quesito, mas o melhor ainda estava por vir, tinha uma janela enorme e quando abrimos a cortina, vimos que estávamos beira mar, e como estávamos no térreo, era só sair do quarto e cair na piscina. MARAVILHOSO!!!
 
@@ -42,7 +42,7 @@ De barriga cheia e feito o reconhecimento da região, já era hora de ir, chegam
 ![Praia Hotel](http://www.viajandonasferias.com.br/imagens/post6/hotel 3-.jpg)
 > Praia em frente ao hotel, devido aquelas pedras ao fundo essa parte é privilegiada por nao ter ondas, o que faz essa parte da praia uma das melhores para mergulhar pois é possível ver vários peixinhos e é possível ver o quão cristalina é a água.
 
-*XCaret*
+**XCaret**
 
 Depois de curtir o hotel, passados alguns dias fomos para o nosso primeiro passeio, que foi ao Xcaret, mais abaixo vou colocar o site onde compramos nossos ingressos. Esse parque é sensacional de todos os pontos, por isso, adiante ainda vou fazer uma postagem para falar somente desse complexo todo para você decidir o que vai conhecer. Para irmos até o compramos o translado do parque mesmo, junto com os ingressos, e logo cedo o ônibus do parque parou na recepção do hotel e logo partimos, fizemos uma parada na metade do caminho, onde foram feitas as distribuições de passageiros, pois o Xcaret é um complexo de parques enorme, então de acordo com seu pacote vc pega o ônibus específico para o destino, pegamos nosso ônibus e agora direto para o parque.
 
@@ -71,7 +71,7 @@ Este dia foi sensacional, do começo ao fim o parque foi maravilhoso, no dia nã
 
 E na volta para o hotel tinham uma fila de ônibus e você pegava de acordo com o letreiro que informava para qual hotel estava indo, super fácil e tranquilo.
 
-*Jungle Tour*
+**Jungle Tour**
 
 Depois do XCaret, demos um intervalo para recuperar as energias e fomos para outro passeio, no Aquaworld, o local fica na zona hoteleira mesmo o que facilita a chegada, nós fomos até o Aquaworld de ônibus convencional mesmo, pegamos o ônibus quase na frente do hotel e descemos na porta do passeio.
 
