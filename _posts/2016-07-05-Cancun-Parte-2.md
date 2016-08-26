@@ -9,6 +9,8 @@ Seguindo meus amores com a viagem dos sonhos!! CANCÚN...
 
 Conforme prometi, nessa postagem vou contar para vocês como foi a hospedagem no Krystal Cancun e como foram ao passeios... aiaiai só de ver as fotos já enche os olhos, espero que quando estiverem lendo consigam sentir essa mesma sensação.
 
+*Localização Hotel Krystal Cancun*
+
 Agora chega de papo e vamos ao que interessa!! Vamos começar pelo hotel, chegamos no Krystal Cancun por volta das 14hrs do horário local, no momento do check-in nos perguntaram se estávamos comemorando algo e dissemos que sim, pois era meu aniversario, então o atendente disse que ia verificar o que seria possível para nos presentear, mas que nosso quarto ainda não estava pronto e que deveríamos esperar até s 15hrs. Então como estávamos com fome e empolgados para conhecer tudo, deixamos as malas no hotel e fomos bater perna.
 
 ![Krystal Cancun](http://www.viajandonasferias.com.br/imagens/post6/chegadakrystal-.jpg)
@@ -25,6 +27,8 @@ Ali pertinho do hotel já identificamos onde eram os pontos que poderíamos ir a
 ![Porção de Nachos Carlos`n Charles](http://www.viajandonasferias.com.br/imagens/post6/nachos-.jpg)
 > Pense em prato enorme... é esse!! Além de grande, uma delícia!! Para os amantes de comida mexicana é uma boa pedida, vale muito a pena.
 
+*Piscina e Praia Hotel Krystal Cancun*
+
 De barriga cheia e feito o reconhecimento da região, já era hora de ir, chegamos no hotel e fomos para o quarto, e quando chegamos, o quarto era realmente muito bom, super amplo, com uma cama king, tinha cozinha equipada com pia, armários, micro-ondas e frigobar, banheiro com banheira, enfim não deixou nada a desejar em nenhum quesito, mas o melhor ainda estava por vir, tinha uma janela enorme e quando abrimos a cortina, vimos que estávamos beira mar, e como estávamos no térreo, era só sair do quarto e cair na piscina. MARAVILHOSO!!!
 
 ![Piscina Hotel](http://www.viajandonasferias.com.br/imagens/post6/hotel-.jpg)
@@ -37,6 +41,8 @@ De barriga cheia e feito o reconhecimento da região, já era hora de ir, chegam
 
 ![Praia Hotel](http://www.viajandonasferias.com.br/imagens/post6/hotel 3-.jpg)
 > Praia em frente ao hotel, devido aquelas pedras ao fundo essa parte é privilegiada por nao ter ondas, o que faz essa parte da praia uma das melhores para mergulhar pois é possível ver vários peixinhos e é possível ver o quão cristalina é a água.
+
+*XCaret*
 
 Depois de curtir o hotel, passados alguns dias fomos para o nosso primeiro passeio, que foi ao Xcaret, mais abaixo vou colocar o site onde compramos nossos ingressos. Esse parque é sensacional de todos os pontos, por isso, adiante ainda vou fazer uma postagem para falar somente desse complexo todo para você decidir o que vai conhecer. Para irmos até o compramos o translado do parque mesmo, junto com os ingressos, e logo cedo o ônibus do parque parou na recepção do hotel e logo partimos, fizemos uma parada na metade do caminho, onde foram feitas as distribuições de passageiros, pois o Xcaret é um complexo de parques enorme, então de acordo com seu pacote vc pega o ônibus específico para o destino, pegamos nosso ônibus e agora direto para o parque.
 
@@ -65,6 +71,8 @@ Este dia foi sensacional, do começo ao fim o parque foi maravilhoso, no dia nã
 
 E na volta para o hotel tinham uma fila de ônibus e você pegava de acordo com o letreiro que informava para qual hotel estava indo, super fácil e tranquilo.
 
+*Jungle Tour*
+
 Depois do XCaret, demos um intervalo para recuperar as energias e fomos para outro passeio, no Aquaworld, o local fica na zona hoteleira mesmo o que facilita a chegada, nós fomos até o Aquaworld de ônibus convencional mesmo, pegamos o ônibus quase na frente do hotel e descemos na porta do passeio.
 
 ![Jungle Tour](http://www.viajandonasferias.com.br/imagens/post6/jungletour-.jpg)
@@ -73,7 +81,7 @@ Depois do XCaret, demos um intervalo para recuperar as energias e fomos para out
 O Aquaworld é uma empresa que oferece vários tipos de passeios, nós fizemos o jungle tour, que consiste em você pilotando uma lanchinha vai até uma região afastada, faz um mergulho para a ver vida marinha e depois volta também pilotando a lanchinha. Esse passeio foi supertranquilo, é um passeio que leva a manha toda, para diririgr a lancha não é necessário ter carteira de motorista, mas se vc está planejando fazer esse passeios com crianças, recomendo que certifique-se se é permitido, pois não vimos nenhuma criança realizando esse passeio, ok?
 
 ![Jungle Tour](http://www.viajandonasferias.com.br/imagens/post6/jungletour2-.jpg)
-> O "sistema de navegação"é bem simples tem a alavanca que se empurrada para frente acelerada e para tráz freia, o volante é bem sensével para fazer as curvas, mas o trajeto é na sua maioria feito em linha reta. 
+> O "sistema de navegação"é bem simples tem a alavanca que se empurrada para frente acelera e para tráz freia, o volante é bem sensével para fazer as curvas, mas o trajeto é na sua maioria feito em linha reta. 
 
 ![Jungle Tour](http://www.viajandonasferias.com.br/imagens/post6/jungletour3-.jpg)
 > Região de mergulho, guiados vemos variedade de peixes, arraias, tartarugas e objetos naufragados. 
@@ -85,6 +93,7 @@ Gente, essa viagem para Cancun tem muita coisa para contar e não cabe tudo aqui
 Besos!! Hasta luego!!!!
 
 Links de onde compramos nossos tickets dos passeios:
+
 http://www.xcaret.com/
 Esse é o site oficial do parque, bem fácil e seguro comprar diretamente com o parque, lá em Cancun tem muitos vendedores que vendem os pacotes para o Xcaret também, então também vale a pena considerar comprar lá, mas aí é por sua conta em risco, ok?
 
