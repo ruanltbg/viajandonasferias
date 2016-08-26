@@ -92,6 +92,8 @@ Gente, essa viagem para Cancun tem muita coisa para contar e não cabe tudo aqui
 
 Besos!! Hasta luego!!!!
 
+----------
+
 Links de onde compramos nossos tickets dos passeios:
 
 http://www.xcaret.com/
