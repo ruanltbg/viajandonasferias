@@ -22,7 +22,7 @@ Bom agora vou explicar o porquê demoramos tanto para chegar lá, começa que mo
 
 A Delta, foi uma das melhores companhias aéreas que já viajamos, do começo ao fim, foi muito organizada, compramos com bastante antecedência os bilhetes e durante o período da compra até a viagem o bilhete se manteve quase intacto, poucas mudanças de horário, aeronave, etc, o avião novinho, gigante, bem confortável e limpo, o serviço de bordo foi maravilhoso, tinham opções de pratos especiais para alérgicos, como eu, a gluten, lactose, etc. e posso dizer que estava bem servido viu.
 
-![Avião Delta Atlanta](http://www.viajandonasferias.com.br/imagens/post5/aviao.jpg)
+![Avião Delta Atlanta](http://www.viajandonasferias.com.br/imagens/post5/avião.jpg)
 > Avião São Paulo – Atlanta, muito limpo, poltronas confortáveis, sistema de entrenimento com tela touch e assento de couro.
 
 ![Refeição 1](http://www.viajandonasferias.com.br/imagens/post5/comida ruan1.jpg)
@@ -43,7 +43,7 @@ A Delta, foi uma das melhores companhias aéreas que já viajamos, do começo ao
  ![Aeroporto Cancun](http://www.viajandonasferias.com.br/imagens/post5/aeroporto.jpg)
 > Sente só o drama do aeroporto, LOTADO!!!! Tanto na ida quanto na volta... loucura total, apesar da quantidade de pessoas bem organizado e fácil de se achar.
 
-Enfim chegamos no hotel, escolhemos o Krystal Cancun, hotel muito lindo, com duas piscinas geladas e uma quentinha, o hotel é de frente para o mar, como a maioria dos resorts em Cancun. A região do hotel é uma das melhores na região hoteleira de Cancun relacionando o custo-benefício vale muito a pena, pois o hotel está do lado do CocoBongo, LaVaquita, The City, Señor Frog e a maioria dos points de Cancun, além de ter shoppings para compras e do supermercado Selecto que é simplesmente maravilhoso, que te ajuda a comer muito bem, caso você opte, como nós, por pegar um pacote de hotel sem incluir alimentação. 
+Enfim chegamos no hotel, escolhemos o Krystal Cancun, hotel muito lindo, com duas piscinas geladas e uma quentinha, o hotel é de frente para o mar, como a maioria dos resorts em Cancun. A localização do hotel é uma das melhores na região hoteleira de Cancun relacionando o custo-benefício vale muito a pena, pois o hotel está do lado do CocoBongo, LaVaquita, The City, Señor Frog e a maioria dos points de Cancun, além de ter shoppings para compras e do supermercado Selecto que é simplesmente maravilhoso, que te ajuda a comer muito bem, caso você opte, como nós, por pegar um pacote de hotel sem incluir alimentação. 
 
  ![Krytal Cancun](http://www.viajandonasferias.com.br/imagens/post5/hotel.jpg)
 > Vista da piscina e do mar, é praticamente 50 tons de azul, dependendo do ponto de vista fica difícil dizer onde começa a piscina e termina o mar e onde começa o mar e termina o céu... Lindo demais!! 
