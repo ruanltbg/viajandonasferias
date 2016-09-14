@@ -10,7 +10,7 @@ categories: Dica
 Não poderia começar este blog sem falar da nossa primeira viagem de avião, o que foi muito marcante para nós. O primeiro destino escolhido foi o CANADÁ.
 Esse país é maravilhoso, com muitos lugares para visitar, cidades extremamente bem organizadas e limpas, a segurança nas cidades do Canadá também chama a atenção, a sensação de segurança é incrível, para as mulheres principalmente é possível andar sozinhas nas ruas sem ter que ficar olhando para os lados assustadas e agarrada na bolsa.  
 
-As opções são muitas para viajar e conhecer todo o Canadá, é possível de trem, carro, ônibus, avião e você pode adequar seu trajeto de acordo com o meio de transporte que mais lhe agradar e convir. Quando viajamos escolhemos o carro e viajamos de Toronto a Quebec e depois retornamos a Toronto, passamos por várias cidades no caminho e foi maravilhoso, passamos 20 dias e ao total foram 7 cidades que visitamos.
+As opções são muitas para viajar e conhecer todo o Canadá, é possível de trem, carro, ônibus, avião e você pode adequar seu trajeto de acordo com o meio de transporte que mais lhe agradar e convir. No nosso caso, escolhemos o carro e viajamos de Toronto a Quebec e depois retornamos a Toronto, passamos por várias cidades no caminho e foi maravilhoso, passamos 20 dias e ao total foram 7 cidades que visitamos.
 
 ![Capital do Canadá (Otawa), toda a história do Canada em uma cidade só.](http://www.viajandonasferias.com.br/imagens/post1/Otawa.jpg)
 > Capital do Canadá (Otawa), toda a história do Canada em uma cidade só.
@@ -19,17 +19,17 @@ As opções são muitas para viajar e conhecer todo o Canadá, é possível de t
 > É muito charme em uma cidade só, Quebec clássica ou moderna você escolhe.
 
 ![Niagara Falls é aquele lugar que doi o coração na hora de partir.](http://www.viajandonasferias.com.br/imagens/post1/Niagar Falls.jpg)
-> Niagara Falls é aquele lugar que doi o coração na hora de partir.
+> Niagara Falls é aquele lugar que dói o coração na hora de partir.
 
-Como em qualquer viagem para poder aproveitar ao máximo é preciso programar e organizar bem o que será visto, os lugares e comidinhas que não podem ficar de fora ao visitar cada cidade, os dias de visita em cada passeio para viajar ao Canadá não é diferente . Quem escolhe ir para esse país encantador, precisa ter algumas coisas em mente que mais abaixo vou justificar porque é preciso planejar esses pontos antes de ir pra lá:
+Como em qualquer viagem para poder aproveitar ao máximo é preciso programar e organizar bem o que será visto, os lugares e comidinhas que não podem ficar de fora ao visitar cada cidade, as lojas para aquelas comprinhas, os melhores trajetos para ir de um lugar a outro, etc., mas cada país tem alguns pontos peculiares que podem facilitar o dia-a-dia da viagem e muitas vezes esquecemos deles, por tanto vou passar uma listinha do pode te salvar em uma visita ao Canadá:
 
-*	**Planeje muito bem a época do ano**, pois o Canadá possui temperaturas extremas que vão de positivos 30 graus celcius a negativos 30 graus celcius. Existem cidades que o frio é menos rigoroso mesmo no inverno, mas mesmo assim impossibilita realizar alguns passeios. Por exemplo nós fomos em abril, época que começa a primavera por lá, mas mesmo assim tivemos que enfrentar frio, ventos de cortar a pele e até uma neve leve.
+*	**Planeje muito bem a época do ano**, pois o Canadá possui temperaturas extremas que vão de positivos 30 graus celcius a negativos 30 graus celcius. Existem cidades que o frio é menos rigoroso mesmo no inverno, mas mesmo assim impossibilita realizar alguns passeios. Por exemplo nós fomos em abril, época que começa a primavera por lá, mas mesmo assim em Quebec tivemos que enfrentar frio, ventos de cortar a pele e até uma neve leve.
 	
 ![Foto de Quebec em abril de 2012.](http://www.viajandonasferias.com.br/imagens/post1/DSCF1017.jpg)
 > Foto de Quebec em abril de 2012
 
 
-*	**Alugue um carro**, apesar do sistema público de ônibus no Canada ser ótimo, ônibus com ar condicionado e pontos de ônibus que protegem de vento, chuva e frio, alugar um carro é uma boa ideia pois proporciona autonomia para passear e fazer mais de um passeio por dia. Além disso a gasolina lá é super barata e super potente, permitindo que rode muito por muito pouco e também a maioria dos lugares para se visitar tem estacionamento, mas se for estacionar na rua tome cuidado e leia as placas pois você pode estar estacionando em lugar proibido.
+*	**Alugue um carro**, apesar do sistema público de ônibus no Canadá ser ótimo, ônibus com ar condicionado e pontos de parada que protegem de vento, chuva e frio, alugar um carro é uma boa ideia pois proporciona autonomia para passear e fazer mais de um passeio por dia tendo em vista que a maioria dos pontos turisticos são afastados um dos outros. Além disso a gasolina lá é super barata e super potente, permitindo que rode muito por muito pouco e também a maioria dos lugares para se visitar tem estacionamento, mas se for estacionar na rua tome cuidado e leia as placas pois você pode estar estacionando em lugar proibido.
 
 ![O carro possibilita realizar aquele passeio ao museu que vc programou mesmo em dias que você sai do hotel e se depara com essa neve.](http://www.viajandonasferias.com.br/imagens/post1/DSCF1005.jpg)
 > O carro possibilita realizar aquele passeio ao museu que vc programou mesmo em dias que você sai do hotel e se depara com essa neve
@@ -40,7 +40,7 @@ Como em qualquer viagem para poder aproveitar ao máximo é preciso programar e 
 ![O carro também te livra de ter que caminhar cheio de roupa, embaixo de garoa e um vento cortante...friiiuuuuuuu.](http://www.viajandonasferias.com.br/imagens/post1/carro2.jpg)
 > O carro também te livra de ter que caminhar cheio de roupa, embaixo de garoa e um vento cortante...friiiuuuuuuu
 
-* **Independente da época leve um casaco**, como disse na primeira dica, analise bem a época que você está embarcado para lá, mas mesmo que você tenha escolhido ir no verão, melhor garantir um casaco caso o tempo mude, porque com certeza isso vai acontecer. 	
+* **Independente da época leve um casaco**, como disse na primeira dica, analise bem a época que você está embarcado para lá, mas mesmo que você tenha escolhido ir no verão, melhor garantir um casaco caso o tempo mude, porque com certeza isso vai acontecer principalmente se Montreal está no seu roteiro. 	
  
 ![Você pode encontrar esses três céus no Canadá no mesmo dia, portanto vale a pena sair prevenido. As três foram fotos tiradas em Toronto no mesmo dia.](http://www.viajandonasferias.com.br/imagens/post1/clima.jpg)
 > Você pode encontrar esses três céus no Canadá no mesmo dia, portanto vale a pena sair prevenido. As três fotos foram tiradas em Toronto no mesmo dia.
