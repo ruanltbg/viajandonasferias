@@ -6,7 +6,7 @@ categories: Diario de bordo
 ---
 
 
-Conforme última postagem, vou continuar falando sobre minha experiência em Punta Cana na República Domenicana. Agora vou contar como foram nossas experiências com os hotéis que ficamos e os passeios que fizemos.
+Conforme última postagem, vou continuar falando sobre nossa experiência em Punta Cana na República Domenicana. Agora vamos contar como foram nossas experiências com os hotéis que ficamos e os passeios que fizemos.
 
 As opções de hotéis em Punta Cana são muitas, você pode escolher qual se encaixa mais no seu perfil de viajante, além de decidir por qual praia, pois a costa litoranea é enorme e cada uma com sua beleza peculiar, tendo tudo isso em mente nós resolvemos que ficaríamos 7 dias em um hotel e 7 dias em outro, ambos da mesma rede de hotéis e mesma praia de Bávaro.
 
@@ -53,7 +53,7 @@ Dentro do hotel existem o serviço de câmbio e também de excursões, as opçõ
 > Nós nadamos livres no tanque dos tubarões e arraias, mas eles ficam bem quietinhos no fundo do mar e os instrutores estão sempre por perto para ajudar no que precisar.
 
 ![Aves](http://www.viajandonasferias.com.br/imagens/post3/cctua.jpg)
-> No final do dia o show com aves lindas de várias espécies impressionou.
+> No final do dia o show com aves lindas de várias espécies, impressionou.
 
 Quem escolhe viajar para Punta Cana tem que estar preparado para ver paisagens paradisíacas, aquelas imagens que se vê em filmes, lugares lindos e inesquecíveis, com opções de diversão para todas as idades. 
 
