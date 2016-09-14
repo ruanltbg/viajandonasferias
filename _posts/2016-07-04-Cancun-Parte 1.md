@@ -15,6 +15,8 @@ Só para variar um pouco, conseguimos ir para esse destino lindo de viver com um
 ![Praia Cancun](http://www.viajandonasferias.com.br/imagens/post5/cancun.jpg)
 > Imagem de quando chegamos, apesar do céu nublado, o clima estava bem gostoso e a agua meu caro, ahhh e de tirar o folego.
 
+**O avião**
+
 Bom agora vou explicar o porquê demoramos tanto para chegar lá, começa que morávamos em uma cidade que não tinham voos direto para lá, então necessariamente tínhamos que fazer escala no Brasil e aqui a cidade de conexão foi São Paulo (Guarulhos) que fizemos com a GOL, depois já com a Delta só demos tchauzinho lá de cima para Cancun e passamos direto, a próxima escala foi em Atlanta (EUA) para então chega em Cancun. É importante frisar que se você planeja fazer uma conexão como a nossa e economizar algumas doletas você precisa ter visto americano, pode ser o de transição ou de turista mesmo, se não tiver melhor pegar outro lugar para fazer a conexão, ok??
 
 ![Aeroporto de Atlanta](http://www.viajandonasferias.com.br/imagens/post5/atlanta.jpg)
@@ -38,12 +40,16 @@ A Delta, foi uma das melhores companhias aéreas que já viajamos, do começo ao
 ![Aviao Delta Cancun](http://www.viajandonasferias.com.br/imagens/post5/aviaocancun.jpg)
 > Avião Atlanta – Cancun, bem menor e mais antigo que do vôo anterior, não tinha sistema de entretenimento, mas era confortável e tinha serviço de bordo.
 
+**Aeroporto de Cancun**
+
  Em Cancun ganhamos duas horas em função do fuso, horinhas que vc pode gastar dentro do aeroporto, pois na época em que fomos (Fevereiro/2015) as filas na imigração e check-point estavam enormes e levamos um tempinho para passar esta etapa. Depois dos tramites de aeroporto vencidos, fomos para o taxi que reservamos daqui, o que vale bastante a pena porque economiza tempo e dindin, escolhi uma cia que encontrei na internet mesmo e foi muito boa, o contato foi feito totalmente por e-mail e whats up, o que facilita muito o contato, mais abaixo vou colocar o contato da empresa caso interesse para alguém. ;)
  
  ![Aeroporto Cancun](http://www.viajandonasferias.com.br/imagens/post5/aeroporto.jpg)
 > Sente só o drama do aeroporto, LOTADO!!!! Tanto na ida quanto na volta... loucura total, apesar da quantidade de pessoas bem organizado e fácil de se achar.
 
-Enfim chegamos no hotel, escolhemos o Krystal Cancun, hotel muito lindo, com duas piscinas geladas e uma quentinha, o hotel é de frente para o mar, como a maioria dos resorts em Cancun. A localização do hotel é uma das melhores na região hoteleira de Cancun relacionando o custo-benefício vale muito a pena, pois o hotel está do lado do CocoBongo, LaVaquita, The City, Señor Frog e a maioria dos points de Cancun, além de ter shoppings para compras e do supermercado Selecto que é simplesmente maravilhoso, que te ajuda a comer muito bem, caso você opte, como nós, por pegar um pacote de hotel sem incluir alimentação. 
+**O Hotel**
+
+Depois de tantas horas, enfim chegamos ao hotel, escolhemos o Krystal Cancun, hotel muito lindo, com duas piscinas geladas e uma quentinha, o hotel é de frente para o mar, como a maioria dos resorts em Cancun. A localização do hotel é uma das melhores na região hoteleira de Cancun relacionando o custo-benefício vale muito a pena, pois o hotel está do lado do CocoBongo, LaVaquita, The City, Señor Frog e a maioria dos points de Cancun, além de ter shoppings para compras e do supermercado Selecto que é simplesmente maravilhoso, que te ajuda a comer muito bem, caso você opte, como nós, por pegar um pacote de hotel sem incluir alimentação. 
 
  ![Krytal Cancun](http://www.viajandonasferias.com.br/imagens/post5/hotel.jpg)
 > Vista da piscina e do mar, é praticamente 50 tons de azul, dependendo do ponto de vista fica difícil dizer onde começa a piscina e termina o mar e onde começa o mar e termina o céu... Lindo demais!! 
