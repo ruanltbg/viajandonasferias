@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Paraíso?? Cancún é pra lá que eu vou!!! - Parte 2"
-date:   2016-06-30 16:08:31 +0000
+date:   2016-07-05 16:08:31 +0000
 categories: Diario de Bordo
 ---
 
