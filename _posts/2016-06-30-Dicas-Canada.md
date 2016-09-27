@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "A primeira postagem a gente nunca esquece... o primeiro destino internacional também não!"
+title: "O que você precisa saber antes de ir para o Canadá."
 date: 2016-06-30 15:26:31 -0700
 categories: Dica
 ---
 
 
 
-Não poderia começar este blog sem falar da nossa primeira viagem de avião, o que foi muito marcante para nós. O primeiro destino escolhido foi o CANADÁ.
-Esse país é maravilhoso, com muitos lugares para visitar, cidades extremamente bem organizadas e limpas, a segurança nas cidades do Canadá também chama a atenção, a sensação de segurança é incrível, para as mulheres principalmente é possível andar sozinhas nas ruas sem ter que ficar olhando para os lados assustadas e agarrada na bolsa.  
+Não poderia começar este blog (sim esse foi o primeiro post feito aqui) sem falar da nossa primeira viagem de avião, o que foi muito marcante para nós por vários motivos e sonhos, e o nosso destino internacional foi o CANADÁ.
+Esse país é maravilhoso, com muitos lugares para visitar, cidades extremamente bem organizadas e limpas, a segurança nas cidades do Canadá também chama a atenção, a sensação de segurança é incrível, não é preciso caminhar muito para você encontrar logo na esquina policiamento mas não é isso que dá essa sensação e sim as pessoas que você encontra, a educação e atenção que os canadense tem é de cair o queixo, por exemplo se você está andando na rua e um canadense acha que vai bater em você lá ou (parei aqui). 
 
 As opções são muitas para viajar e conhecer todo o Canadá, é possível de trem, carro, ônibus, avião e você pode adequar seu trajeto de acordo com o meio de transporte que mais lhe agradar e convir. No nosso caso, escolhemos o carro e viajamos de Toronto a Quebec e depois retornamos a Toronto, passamos por várias cidades no caminho e foi maravilhoso, passamos 20 dias e ao total foram 7 cidades que visitamos.
 
