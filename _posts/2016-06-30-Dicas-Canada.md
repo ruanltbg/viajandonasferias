@@ -4,6 +4,7 @@ title: "O que você precisa saber antes de ir para o Canadá."
 date: 2016-06-30 15:26:31 -0700
 categories: Dica
 Description: Vai para o Canadá ou está pensando em ir? Veja essas dicas que serão muito utéis para você.
+Thump: (http://www.viajandonasferias.com.br/imagens/post1/thump.jpg)
 ---
 
 
