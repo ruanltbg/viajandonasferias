@@ -4,7 +4,7 @@ title:  "15 dias em Punta Cana. - Parte 1"
 date:   2016-07-01 15:44:31 +0000
 categories: Diario de bordo
 Description: Veja como é o aeroporto, taxi, estradas de Punta Cana.
-Thump: (http://www.viajandonasferias.com.br/imagens/post2/thump.jpg)
+Thump: (http://www.viajandonasferias.com.br/imagens/post2/capa.jpg)
 ---
 
 Aos amantes de calor, sol e praia eu dedico esse post. Se você adora essa combinação, quer conhecer um lugar fora do Brasil e ainda com preço abaixo de muito destino praiano internacional, Punta Cana na República Domenicana é uma boa pedida.
