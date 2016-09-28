@@ -26,7 +26,15 @@ O primeiro hotel que ficamos foi o Caribe Clube Princess da rede de hotéis Prin
 As opções de restaurantes são muitas,  buffet com pratos do mundo todo, fast foods, snacks, tudo bem fresquinho e bem preparado. A noite tinham jantares temáticos onde cada noite tinham opções de pratos de cada lugar do mundo, além dos jantares temáticos haviam restaurantes com culinária específica de cada país, particularmente nós gostamos muito de comida mexicana, então esse foi nosso restaurante favorito.
 
 ![Pratos Caribe Club Princess](http://www.viajandonasferias.com.br/imagens/post3/comida.jpg)
-> Muitas opções, para todos os paladares e gostos... sempre fomos bem atendidos, e a comida sempre veio quentinha e bem fresquinha.
+
+![Pratos Caribe Club Princess](http://www.viajandonasferias.com.br/imagens/post3/comida1.jpg)
+
+![Pratos Caribe Club Princess](http://www.viajandonasferias.com.br/imagens/post3/comida2.jpg)
+
+![Pratos Caribe Club Princess](http://www.viajandonasferias.com.br/imagens/post3/comida3.jpg)
+
+![Pratos Caribe Club Princess](http://www.viajandonasferias.com.br/imagens/post3/comida4.jpg)
+> Muitas opções, para todos os paladares e gostos... sempre fomos bem atendidos, e a comida sempre veio quentinha, fresquinha e muito bem preparada.
 
 Além de comida e bebida, o hotel tinha opções de entretenimento tais como discoteca, teatro com shows diferentes todas as noites, jogos, gincanas e aulas de dança na piscina, playground e children care para as crianças. O hotel tinha lojas de souvenires com doces e salgadinhos caso tenha vontade de comer algo diferente do que o hotel serve.
 
