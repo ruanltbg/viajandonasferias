@@ -7,8 +7,8 @@ categories: Dica
 
 
 
-Não poderia começar este blog (sim esse foi o primeiro post feito aqui) sem falar da nossa primeira viagem de avião, o que foi muito marcante para nós por vários motivos e sonhos, e o nosso destino internacional foi o CANADÁ.
-Esse país é maravilhoso, com muitos lugares para visitar, cidades extremamente bem organizadas e limpas, a segurança nas cidades do Canadá também chama a atenção, a sensação de segurança é incrível, não é preciso caminhar muito para você encontrar logo na esquina policiamento mas não é isso que dá essa sensação e sim as pessoas que você encontra, a educação e atenção que os canadense tem é de cair o queixo, por exemplo se você está andando na rua e um canadense acha que vai bater em você lá ou (parei aqui). 
+Não poderia começar este blog (sim esse foi o primeiro post feito aqui) sem falar da nossa primeira viagem de avião, o que foi muito marcante para nós por vários motivos, e o nosso destino internacional escolhido foi o CANADÁ.
+Esse país é maravilhoso, com muitos lugares para visitar, cidades extremamente bem organizadas e limpas, a segurança nas cidades do Canadá também chama a atenção, a sensação de segurança é incrível, não é preciso caminhar muito para você encontrar logo na esquina policiamento mas não é isso que dá essa sensação e sim as pessoas que você encontra, a educação e atenção que os canadense tem é de cair o queixo, por exemplo se você está andando na rua e um canadense acha que vai bater em você ou pode chegar perto disso ele já solta um "Sorry!", no final das contas até você entra na onda e começa a agir dessa forma também porque é muito bonito de ver.
 
 As opções são muitas para viajar e conhecer todo o Canadá, é possível de trem, carro, ônibus, avião e você pode adequar seu trajeto de acordo com o meio de transporte que mais lhe agradar e convir. No nosso caso, escolhemos o carro e viajamos de Toronto a Quebec e depois retornamos a Toronto, passamos por várias cidades no caminho e foi maravilhoso, passamos 20 dias e ao total foram 7 cidades que visitamos.
 
@@ -29,7 +29,7 @@ Como em qualquer viagem para poder aproveitar ao máximo é preciso programar e 
 > Foto de Quebec em abril de 2012
 
 
-*	**Alugue um carro**, apesar do sistema público de ônibus no Canadá ser ótimo, ônibus com ar condicionado e pontos de parada que protegem de vento, chuva e frio, alugar um carro é uma boa ideia pois proporciona autonomia para passear e fazer mais de um passeio por dia tendo em vista que a maioria dos pontos turisticos são afastados um dos outros. Além disso a gasolina lá é super barata e super potente, permitindo que rode muito por muito pouco e também a maioria dos lugares para se visitar tem estacionamento, mas se for estacionar na rua tome cuidado e leia as placas pois você pode estar estacionando em lugar proibido.
+*	**Alugue um carro**, apesar do sistema público de ônibus no Canadá ser ótimo, ônibus com ar condicionado e pontos de parada que protegem de vento, chuva e frio, alugar um carro é uma boa ideia pois proporciona autonomia para passear e fazer mais de um passeio por dia tendo em vista que a maioria dos pontos turisticos são afastados uns dos outros. Além disso a gasolina lá é super barata e super potente, permitindo que rode muito por muito pouco e também a maioria dos lugares para se visitar tem estacionamento, mas se for estacionar na rua tome cuidado e leia as placas pois você pode estar estacionando em lugar proibido.
 
 ![O carro possibilita realizar aquele passeio ao museu que vc programou mesmo em dias que você sai do hotel e se depara com essa neve.](http://www.viajandonasferias.com.br/imagens/post1/DSCF1005.jpg)
 > O carro possibilita realizar aquele passeio ao museu que vc programou mesmo em dias que você sai do hotel e se depara com essa neve
@@ -56,7 +56,7 @@ Como em qualquer viagem para poder aproveitar ao máximo é preciso programar e 
 
 Sem dúvida o Canadá é um país cheio de encantos, com paisagens de tirar o fôlego e uma população extremamente acolhedora à turistas, o passeio para esse país é recomendado para todos os grupos sem restrições, sozinho ou acompanhado o Canadá oferece o que de melhor uma viagem ao exterior pode oferecer a um viajante.
 
-Acompanhe meu blog para receber mais dicas de viagens para lugares do mundo, pois você irá encontrar dicas que são muito valiosas e que podem te ajudar a aproveitar a sua viagem já agendada ou então ajudar a escolher aquele destino para as próximas férias.
+Acompanhe nosso blog para receber mais dicas de viagens para lugares do mundo, pois você irá encontrar dicas que são muito valiosas e que podem te ajudar a aproveitar a sua viagem já agendada ou então ajudar a escolher aquele destino para as próximas férias.
 
 Abraços, beijos, me vou!!!
 
