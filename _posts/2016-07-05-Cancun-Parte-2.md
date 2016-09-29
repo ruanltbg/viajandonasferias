@@ -68,7 +68,7 @@ Este dia foi sensacional, do começo ao fim o passeio foi maravilhoso, no dia n�
 
 ![Xcaret Restaurante](http://www.viajandonasferias.com.br/imagens/post6/xcaretrestaruant1-.jpg)
 
-![Xcaret Parque](http://www.viajandonasferias.com.br/imagens/post6/xcaretretrestaruant-.jpg)
+![Xcaret Restaurante](http://www.viajandonasferias.com.br/imagens/post6/xcaretretrestaruant-.jpg)
 > Restaurante La Coccina um dos restaurantes disponíveis dentro do parque, cada restaurante serve uma especialidade diferente, este serve comida mexicana, a variadade de pratos impresionam.
 
 ![Xcaret Parque](http://www.viajandonasferias.com.br/imagens/post6/espetaculo.jpg)
@@ -97,7 +97,7 @@ Gente, essa viagem para Cancun tem muita coisa para contar e não cabe tudo aqui
 
 Besos!! Hasta luego!!!!
 
-----------
+----------------------------------------------------------
 
 Links de onde compramos nossos tickets dos passeios:
 
