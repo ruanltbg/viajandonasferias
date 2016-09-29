@@ -2,15 +2,17 @@
 layout: post
 title:  "Sol, praia, calor?? Vem comigo!! - Parte 3"
 date:   2016-07-03 16:08:31 +0000
-categories: Diario de Bordo
+categories: melhores destinos
+description:
+Thumb: (http://www.viajandonasferias.com.br/imagens/post4/capa.jpg)
 ---
 
 
-Olá meus queridos!! Essa postagem sobre nossa experiência em Punta Cana está rendendo não é mesmo?? Mas esse será o ultimo da saga...hihihihihihi 
+Olá meus queridos!! Essa postagem sobre nossa experiência em Punta Cana está rendendo não é mesmo?? Mas esse será o último da saga...hihihihihihi 
 
 **Passeios**
 
-Continuando de onde parei, no segundo dia de passeio em Punta Cana, fomos pela mesma empresa do primeiro dia, pois este passeio foi uma cortesia da empresa por ter feito o passeio com os golfinhos, arraias, tubarões etc. Neste passeio a empresa nos buscou no hotel até a lancha que nos levou para mergulhar em aguas cristalinas em contato próximo à peixes, corais e objetos naufragados.
+Continuando de onde parei, no segundo dia de passeio em Punta Cana, fomos pela mesma empresa do primeiro dia, pois este passeio foi uma cortesia da empresa por ter feito o passeio com os golfinhos, arraias, tubarões etc. Neste passeio a empresa nos buscou no hotel até a lancha que nos levou para mergulhar em águas cristalinas em contato próximo à peixes, corais e objetos naufragados.
 
 ![Passeio de barco](http://www.viajandonasferias.com.br/imagens/post4/passeiobarco.jpg)
 > Empresa que fizemos os passeios, recomendo!!!
@@ -22,7 +24,7 @@ Continuando de onde parei, no segundo dia de passeio em Punta Cana, fomos pela m
 > Olha só a cara de alegria misturado com cansaço da galera...hahahahaha
 
 
-Depois do mergulho o catamanran parou em uma praia chamanda  Sanctuary Cabeza de Toro , local onde muitos barcos param e é uma região com água super clara não muito funda e sem onda, onde qualquer um pode aproveitar a praia a vontade.
+Depois do mergulho o catamaran parou em uma praia chamanda  Sanctuary Cabeza de Toro , local onde muitos barcos param e é uma região com água super clara não muito funda e sem onda, onde qualquer um pode aproveitar a praia à vontade.
 
 ![Passeio de barco 4](http://www.viajandonasferias.com.br/imagens/post4/passeio1.jpg)
 > Local onde o barco parou onde podemos aproveitar a água cristalina... Muitoooo bom!!
@@ -39,7 +41,7 @@ Então, para o nosso perfil viajante,  decidimos que os dois dias de passeios j�
 
 **Hotel Bávaro Princess**
 
-Após aproveitar os 7 dias no Caribe Club Princess, fomos até outro hotel da mesma rede Bávaro Princess. Neste hotel também ficamos 7 dias hospedados, porém neste ficamos em bangalôs individuais bem próximo da praia, as instalações eram incríveis!! Me senti uma rainha durante a estadia nesse hotel.
+Após aproveitar os 7 dias no Caribe Club Princess, fomos até outro hotel da mesma rede Princess Hotel. Neste hotel também ficamos 7 dias hospedados, porém neste ficamos em bangalôs individuais bem próximo da praia, as instalações eram incríveis!! Me senti uma rainha durante a estadia nesse hotel.
 
 ![Bávaro Princess Map](http://www.viajandonasferias.com.br/imagens/post4/mapahotel.jpg)
 > Mapa do hotel, pela foto já dá para ver como é enooormee
@@ -91,14 +93,14 @@ Além do quarto ser muito completo, o hotel também não deixava nada a desejar 
 > Espetáculo de dança, um show de luzes e danças dos ritmos do mundo todo.
 
 
-Neste hotel existe uma separação de categorias e assim delimitando o que você pode aproveitar do hotel, mas independente de qual seja a sua categoria o hotel é maravilhoso que vale muito a pena pois tem muita coisa linda para ver e a praia gente... é deslumbrante!!!!! 
+Neste hotel existe uma separação de categorias e assim delimitando o que você pode aproveitar do hotel, mas independente de qual seja a sua categori,a o hotel é maravilhoso que vale muito a pena pois tem muita coisa linda para ver e a praia gente... é deslumbrante!!!!! 
 
 ![Praia de Bavaro](http://www.viajandonasferias.com.br/imagens/post4/praiabavaro.jpg)
 > Essa praia tira o folego!!!
 
-Com essa foto me despeço de vocês, acho que falei praticamente de tudo sobre nossa experiência em Punta Cana, mas se você ainda quer mais dicas sobre este destino fica ligado nesse blog, porque ainda tenho muita coisa para contar para vocês...
+Com essa foto me despeço de vocês, acho que falei praticamente de tudo sobre nossa experiência em Punta Cana, mas se você ainda quer mais dicas sobre este destino fica ligado nesse blog, porque ainda temos muita coisa para contar para vocês...
 
-Ahhh e se você tiver duvidas fique a vontade para colocar aqui embaixo nos comentários pois vou ter maior prazer em responder o mais rápido possível viu. ;)
+Ahhh e se você tiver duvidas fique a vontade para colocar aqui embaixo nos comentários pois teremos maior prazer em responder o mais rápido possível. ;)
 
 Agora eu me vou!! Sintam-se abraçados e beijados!!!
 
