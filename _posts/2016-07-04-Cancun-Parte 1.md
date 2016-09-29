@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Aproveitando 7 dias em Cancun"
+title:  "Aproveitando 7 dias em Cancun - Parte 1"
 date:   2016-07-04 16:08:31 +0000
-categories: Diario de Bordo
+categories: melhores destinos
+description: Como é viajar pela Delta por promoção pagando duas passagens por uma, e o Krystal Cancun sem incluir refeições vale pena?
+thumb: (http://www.viajandonasferias.com.br/imagens/post5/capa.jpg)
 ---
 
 
@@ -46,9 +48,6 @@ A Delta, foi uma das melhores companhias aéreas que já viajamos, do começo ao
  
  ![Aeroporto Cancun](http://www.viajandonasferias.com.br/imagens/post5/aeroporto.jpg)
 > Sente só o drama do aeroporto, LOTADO!!!! Tanto na ida quanto na volta... loucura total, apesar da quantidade de pessoas bem organizado e fácil de se achar.
-
- ![Aeroporto Cancun](http://www.viajandonasferias.com.br/imagens/post5/aeroporto1.jpg)
-> Essa é a parte do embarque, mas o aeroporto todo é praticamente assim, aberto com esses ventiladores que parecem élices de helicóptero.
 
 **O Hotel**
 
