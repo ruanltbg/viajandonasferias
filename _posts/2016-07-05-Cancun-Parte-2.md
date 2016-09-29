@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Paraíso?? Cancún é pra lá que eu vou!!! - Parte 2"
+title:  "Aproveitando 7 dias em Cancun - Parte 2"
 date:   2016-07-05 16:08:31 +0000
 categories: melhores destinos
-description:
+description: O que há na região do Hotel Krystal Cancun. Como são os passeios no Xcaret e Jungle Tour.
 thumb: (http://www.viajandonasferias.com.br/imagens/post6/capa.jpg)
 ---
 
