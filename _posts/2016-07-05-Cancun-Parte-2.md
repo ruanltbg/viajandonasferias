@@ -2,10 +2,12 @@
 layout: post
 title:  "Paraíso?? Cancún é pra lá que eu vou!!! - Parte 2"
 date:   2016-07-05 16:08:31 +0000
-categories: Diario de Bordo
+categories: melhores destinos
+description:
+thumb: (http://www.viajandonasferias.com.br/imagens/post6/capa.jpg)
 ---
 
-Seguindo meus amores com a viagem dos sonhos!! CANCÚN...
+Seguindo meus amores com a viagem dos sonhos!! CANCUN...
 
 Conforme prometi, nessa postagem vou contar para vocês como foi a hospedagem no Krystal Cancun e como foram ao passeios... aiaiai só de ver as fotos já enche os olhos, espero que quando estiverem lendo consigam sentir essa mesma sensação.
 
@@ -16,10 +18,10 @@ Agora chega de papo e vamos ao que interessa!! Vamos começar pelo hotel, chegam
 ![Krystal Cancun](http://www.viajandonasferias.com.br/imagens/post6/chegadakrystal-.jpg)
 > Aquela fotinha para registrar a chegada ao hotel, o hotel era bem novinho, muito bem decorado e bem moderno. Nota 10!!
 
-Ali pertinho do hotel já identificamos onde eram os pontos que poderíamos ir a noite, jantar, comprar etc. E como a fome estava batendo na porta resolvemos fazer uma boquinha no Carlos`n Charlie`s, pedimos uma porção de nachos para nós dois, pois íamos pedindo conforme a fome persistisse, porém a porção era tão grande que quase não conseguimos vencer, por isso aqui vai a dica, quando pedir os pratos em Cancun, vá com calma, pois a maioria das porções lá são bem grandes.
+Ali pertinho do hotel já identificamos onde eram os pontos que poderíamos ir a noite, jantar, comprar etc. E como a fome estava batendo na porta resolvemos fazer uma boquinha no restaurante Carlos`n Charlie`s, pedimos uma porção de nachos para nós dois, pois íamos pedindo conforme a fome persistisse, porém a porção era tão grande que quase não conseguimos vencer, por isso aqui vai a dica, quando pedir os pratos em Cancun, vá com calma, pois a maioria das porções lá são bem grandes.
 
 ![Região do Hotel](http://www.viajandonasferias.com.br/imagens/post6/regiao hotel-.jpg)
-> Apenas alguns metros do hotel e chegamos a parte mais agitada de Cancun, onde fica o CocoBongo, Mandala, LaVaquita e outras baladas conhecidas, além de um vasto comercio de rua e lugares para comer.
+> Apenas alguns passos do hotel e chegamos a parte mais agitada de Cancun, onde fica o CocoBongo, Mandala, LaVaquita e outras baladas conhecidas, além de um vasto comércio de rua e lugares para comer.
 
 ![Carlos`n Charles](http://www.viajandonasferias.com.br/imagens/post6/carlosncharlies-.jpg)
 > Restaurante Charlie`n Charlie`s lugar onde escolhemos para nossa primeira refeição em Cancun, o lugar parece um pub irlandês, mas a comida é mexicana...rsrsrsrsrsrsrs.
@@ -29,18 +31,18 @@ Ali pertinho do hotel já identificamos onde eram os pontos que poderíamos ir a
 
 **Piscina e Praia Hotel Krystal Cancun**
 
-De barriga cheia e feito o reconhecimento da região, já era hora de ir, chegamos no hotel e fomos para o quarto, e quando chegamos, o quarto era realmente muito bom, super amplo, com uma cama king, tinha cozinha equipada com pia, armários, micro-ondas e frigobar, banheiro com banheira, enfim não deixou nada a desejar em nenhum quesito, mas o melhor ainda estava por vir, tinha uma sacada enorme e quando abrimos a cortina, vimos que estávamos beira mar, e como estávamos no térreo, era só sair do quarto e cair na piscina. MARAVILHOSO!!!
+De barriga cheia e feito o reconhecimento da região, já era hora de ir, chegamos no hotel e fomos para o quarto, e quando chegamos, o quarto era realmente muito bom, super amplo, com uma cama king, tinha cozinha equipada com pia, armários, micro-ondas e frigobar, banheiro com banheira, enfim não deixou nada a desejar em nenhum quesito, mas o melhor ainda estava por vir, tinha uma sacada enorme e quando abrimos a cortina, vimos que estávamos beira mar, e como era no térreo, era só sair do quarto e cair na piscina. MARAVILHOSO!!!
 
 ![Piscina Hotel](http://www.viajandonasferias.com.br/imagens/post6/hotel-.jpg)
-> Região da piscina principal, com muitas espreguiçadeiras bem propícias para tomar banho de sol, já que essa parte é dificil de achar sombras. 
+> Região da piscina principal, com muitas espreguiçadeiras bem propícias para tomar banho de sol, já que essa parte era difícil de achar sombras. 
 
 ![Piscina Hotel](http://www.viajandonasferias.com.br/imagens/post6/hotel 2.jpg)
 
 ![Piscina Hotel](http://www.viajandonasferias.com.br/imagens/post6/hotel 4-.jpg)
-> Piscina principal, confesso que é bem gelada, acho que eles resfriam a água, porque sempre estava super gelada independente do sol e calor que fizesse, nesta piscina tinha aulas de dança e aérobica.
+> Piscina principal, confesso que é bem gelada, acho que eles resfriam a água, porque sempre estava super gelada independente do sol e calor que fizesse. Nesta piscina tinha aulas de dança e aérobica.
 
 ![Praia Hotel](http://www.viajandonasferias.com.br/imagens/post6/hotel 3-.jpg)
-> Praia em frente ao hotel, devido aquelas pedras ao fundo essa parte é privilegiada por nao ter ondas, o que faz essa parte da praia uma das melhores para mergulhar pois é possível ver vários peixinhos e é possível ver o quão cristalina é a água.
+> Praia em frente ao hotel, devido aquelas pedras ao fundo essa parte é privilegiada por não ter ondas, o que faz essa parte da praia uma das melhores para mergulhar pois é possível ver vários peixinhos e dá para ter idéia do quão cristalina é a água.
 
 **XCaret**
 
@@ -49,7 +51,7 @@ Depois de curtir o hotel, passados alguns dias fomos para o nosso primeiro passe
 ![Entrada Xcaret](http://www.viajandonasferias.com.br/imagens/post6/xcaret-.jpg)
 > Aquário na entrada para o parque.
 
-Este dia foi sensacional, do começo ao fim o parque foi maravilhoso, no dia não estava muito calor e água estava bem gelada, mas isso não comprometeu em nada nosso passeio.
+Este dia foi sensacional, do começo ao fim o passeio foi maravilhoso, no dia não estava muito calor e água estava bem gelada, mas isso não comprometeu em nada nosso passeio.
 
 ![Xcaret Gruta](http://www.viajandonasferias.com.br/imagens/post6/xcaretgruta1-.jpg)
 
@@ -57,7 +59,7 @@ Este dia foi sensacional, do começo ao fim o parque foi maravilhoso, no dia nã
 > Essa é escadinha de entrada para fazer o caminho pelo rio de água cristalina que atravessa o parque, logo na chegada a equipe do parque direciona os turistas para fazer esse passeio e fornecem coletes e nadadeiras. 
 
 ![Xcaret Gruta passeio](http://www.viajandonasferias.com.br/imagens/post6/xcaretgruta 2-.jpg)
-> Aí to eu tentando posar para tirar foto...hahaahahaha, mas o caminho é lindo com essas paredes de pedras, grutas e natureza abundante. 
+> Aí to eu tentando posar para foto...hahahahaha, o caminho é lindo com essas paredes de pedras, grutas e natureza abundante. 
 
 ![Xcaret Parque](http://www.viajandonasferias.com.br/imagens/post6/xcaretparque-.jpg)
 
@@ -67,9 +69,12 @@ Este dia foi sensacional, do começo ao fim o parque foi maravilhoso, no dia nã
 ![Xcaret Restaurante](http://www.viajandonasferias.com.br/imagens/post6/xcaretrestaruant1-.jpg)
 
 ![Xcaret Parque](http://www.viajandonasferias.com.br/imagens/post6/xcaretretrestaruant-.jpg)
-> Restaurante La Coccina um dos restaurantes disponíveis dentro do parque, onde cada restaurante serve uma especialidade diferente, este serve comida mexicana, a variadade de pratos impresionam.
+> Restaurante La Coccina um dos restaurantes disponíveis dentro do parque, cada restaurante serve uma especialidade diferente, este serve comida mexicana, a variadade de pratos impresionam.
 
-E na volta para o hotel tinham uma fila de ônibus e você pegava de acordo com o letreiro que informava para qual hotel estava indo, super fácil e tranquilo.
+![Xcaret Parque](http://www.viajandonasferias.com.br/imagens/post6/espetaculo.jpg)
+> No final do dia, todas as atrações do parque fecham e todos são direcionados ao enorme palco para assistir um espetáculo com as perfomances da cultura e costumes locais. Foi um show de fantasias, luzes, fogo e animais. Muito lindo!!!
+
+E no final do dia, quando acabava o espetáculo de teatro, era hora de ir embora, na volta para o hotel havia uma fila de ônibus e você pegava de acordo com o letreiro que informava para qual hotel estava indo, e seguia direto super fácil e tranquilo.
 
 **Jungle Tour**
 
@@ -78,7 +83,7 @@ Depois do XCaret, demos um intervalo para recuperar as energias e fomos para out
 ![Jungle Tour](http://www.viajandonasferias.com.br/imagens/post6/jungletour-.jpg)
 > Lanchinha dirigida pelo maridão, rumo a região do mergulho. Aí é mão no acelerador e pé na "estrada".
 
-O Aquaworld é uma empresa que oferece vários tipos de passeios, nós fizemos o jungle tour, que consiste em você pilotando uma lanchinha ir até uma região afastada, fazer um mergulho para adminirar a vida marinha da região e depois volta também pilotando a lanchinha. Esse passeio foi supertranquilo, é um passeio que leva a manhã toda, para diririgr a lancha não é necessário ter carteira de motorista, mas se você está planejando fazer esse passeios com crianças, recomendo que certifique-se se é permitido, pois não vimos nenhuma criança realizando esse passeio, ok?
+O Aquaworld é uma empresa que oferece vários tipos de passeios, nós fizemos o jungle tour, que consiste em você pilotando uma lanchinha ir até uma região afastada, fazer um mergulho para adminirar a vida marinha da região e depois volta também pilotando a lanchinha. Esse passeio foi supertranquilo, que levou a manhã toda, para diririgr a lancha não é necessário ter carteira de motorista, mas se você está planejando fazer esse passeios com crianças, recomendo que certifique-se se é permitido, pois não vimos nenhuma criança realizando esse passeio, ok?
 
 ![Jungle Tour](http://www.viajandonasferias.com.br/imagens/post6/jungletour2-.jpg)
 > O "sistema de navegação"é bem simples tem a alavanca que se empurrada para frente acelera e para tráz freia, o volante é bem sensével para fazer as curvas, mas o trajeto é na sua maioria feito em linha reta. 
@@ -88,7 +93,7 @@ O Aquaworld é uma empresa que oferece vários tipos de passeios, nós fizemos o
 
 Depois dos passeios, resolvemos aproveitar os próximos dias para curtir o hotel, a praia, e passeios mais curtos por Cancun mesmo, o que foi ótimo para recarregar as baterias e encarar novamente as conexões aéreas.
 
-Gente, essa viagem para Cancun tem muita coisa para contar e não cabe tudo aqui, tentei contar o máximo possível, mas sem deixar essa postagem muito comprida e cansativa, ainda irei fazer postagens mais detalhadas com cada passeio e coisas sobre a cidade, mas se você gostaria de saber algo específico, ou uma ajudinha com o seu roteiro, é só enviar um e-mail que vamos ter o maior prazer em te responder. 
+Gente, essa viagem para Cancun tem muita coisa para contar e não cabe tudo aqui, tentei contar o máximo possível, mas sem deixar essa postagem muito comprida e cansativa, ainda irei fazer postagens mais detalhadas com cada passeio e coisas sobre a cidade, mas se você gostaria de saber algo específico, ou uma ajudinha com o seu roteiro, é só entrar em contato que vamos ter o maior prazer em te responder. 
 
 Besos!! Hasta luego!!!!
 
