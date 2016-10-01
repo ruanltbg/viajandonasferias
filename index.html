@@ -1,23 +1,29 @@
 ---
 layout: default
+title: Viajando nas férias
+description:
+  Dicas e compartilhamento de nossas experiencias de viagens, permitindo trocar
+  conhecimentos sobre roteiros, ajudando pessoas a organizar suas viagens sozinhas.
+comments: false
 ---
-
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+<div id="features-wrapper">
+  <div class="container">
+    <div class="row">
+      {% for post in paginator.posts %}
+        <div class="4u 12u(medium)">
+          <section class="box feature">
+            <a href="{{ post.url }}" class="image featured"><img src="{{ post.thumb }}" alt="" /></a>
+            <div class="inner">
+              <header>
+                <h2><a href="{{ post.url }}" class="image featured">{{ post.title }}</a></h2>
+                <time>{{ post.date | date: '%d/%m/%Y' }}</time>
+              </header>
+              <p>{{post.description}}</p>
+            </div>
+          </section>
+        </div>
+      {% endfor %}
+    </div>
+    <!-- <a href="/posts/">Ver todos</a> -->
+  </div>
 </div>
