@@ -2,9 +2,9 @@
 layout: post
 title:  "Aproveitando 7 dias em Cancun - Parte 2"
 date:   2016-07-05 16:08:31 +0000
-categories: melhores destinos
+categories: melhores-destinos
 description: O que há na região do Hotel Krystal Cancun. Como são os passeios no Xcaret e Jungle Tour.
-thumb: (http://www.viajandonasferias.com.br/imagens/post6/capa.jpg)
+thumb: http://www.viajandonasferias.com.br/imagens/post6/capa.jpg
 ---
 
 Seguindo meus amores com a viagem dos sonhos!! CANCUN...
@@ -15,19 +15,15 @@ Conforme prometi, nessa postagem vou contar para vocês como foi a hospedagem no
 
 Agora chega de papo e vamos ao que interessa!! Vamos começar pelo hotel, chegamos no Krystal Cancun por volta das 14hrs do horário local, no momento do check-in nos perguntaram se estávamos comemorando algo e dissemos que sim, pois era meu aniversário, então o atendente disse que ia verificar o que seria possível para nos presentear, mas que nosso quarto ainda não estava pronto e que deveríamos esperar até as 15hrs. Então como estávamos com fome e empolgados para conhecer tudo, deixamos as malas no hotel e fomos bater perna.
 
-![Krystal Cancun](http://www.viajandonasferias.com.br/imagens/post6/chegadakrystal-.jpg)
-> Aquela fotinha para registrar a chegada ao hotel, o hotel era bem novinho, muito bem decorado e bem moderno. Nota 10!!
+{% include image.html url="http://www.viajandonasferias.com.br/imagens/post6/chegadakrystal-.jpg" description="Aquela fotinha para registrar a chegada ao hotel, o hotel era bem novinho, muito bem decorado e bem moderno. Nota 10!!" %}
 
-Ali pertinho do hotel já identificamos onde eram os pontos que poderíamos ir a noite, jantar, comprar etc. E como a fome estava batendo na porta resolvemos fazer uma boquinha no restaurante Carlos`n Charlie`s, pedimos uma porção de nachos para nós dois, pois íamos pedindo conforme a fome persistisse, porém a porção era tão grande que quase não conseguimos vencer, por isso aqui vai a dica, quando pedir os pratos em Cancun, vá com calma, pois a maioria das porções lá são bem grandes.
+Ali pertinho do hotel já identificamos onde eram os pontos que poderíamos ir a noite, jantar, comprar etc. E como a fome estava batendo na porta resolvemos fazer uma boquinha no restaurante Carlos'n Charlie's, pedimos uma porção de nachos para nós dois, pois íamos pedindo conforme a fome persistisse, porém a porção era tão grande que quase não conseguimos vencer, por isso aqui vai a dica, quando pedir os pratos em Cancun, vá com calma, pois a maioria das porções lá são bem grandes.
 
-![Região do Hotel](http://www.viajandonasferias.com.br/imagens/post6/regiao hotel-.jpg)
-> Apenas alguns passos do hotel e chegamos a parte mais agitada de Cancun, onde fica o CocoBongo, Mandala, LaVaquita e outras baladas conhecidas, além de um vasto comércio de rua e lugares para comer.
+{% include image.html url="http://www.viajandonasferias.com.br/imagens/post6/regiao hotel-.jpg" description="Apenas alguns passos do hotel e chegamos a parte mais agitada de Cancun, onde fica o CocoBongo, Mandala, LaVaquita e outras baladas conhecidas, além de um vasto comércio de rua e lugares para comer." %}
 
-![Carlos`n Charles](http://www.viajandonasferias.com.br/imagens/post6/carlosncharlies-.jpg)
-> Restaurante Charlie`n Charlie`s lugar onde escolhemos para nossa primeira refeição em Cancun, o lugar parece um pub irlandês, mas a comida é mexicana...rsrsrsrsrsrsrs.
+{% include image.html url="http://www.viajandonasferias.com.br/imagens/post6/carlosncharlies-.jpg" description="Restaurante Charlie'n Charlie's lugar onde escolhemos para nossa primeira refeição em Cancun, o lugar parece um pub irlandês, mas a comida é mexicana." %}
 
-![Porção de Nachos Carlos`n Charles](http://www.viajandonasferias.com.br/imagens/post6/nachos-.jpg)
-> Pense em um prato enorme... é esse!! Além de grande, uma delícia!! Para os amantes de comida mexicana é uma boa pedida, vale muito a pena.
+{% include image.html url="http://www.viajandonasferias.com.br/imagens/post6/nachos-.jpg" description="Pense em um prato enorme... é esse!! Além de grande, uma delícia!! Para os amantes de comida mexicana é uma boa pedida, vale muito a pena." %}
 
 **Piscina e Praia Hotel Krystal Cancun**
 
