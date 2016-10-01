@@ -6,8 +6,9 @@ categories: Dica
 Description: Vai para o Canadá ou está pensando em ir? Veja essas dicas que serão muito utéis para você.
 Thump: (http://www.viajandonasferias.com.br/imagens/post1/thump.jpg)
 ---
-
-
+![Capital do Canadá (Otawa), toda a história do Canada em uma cidade só.](http://www.viajandonasferias.com.br/imagens/post1/Otawa.jpg)
+> Capital do Canadá (Otawa), toda a história do Canada em uma cidade só.
+{: .class1 .class2}
 
 Não poderia começar este blog (sim esse foi o primeiro post feito aqui) sem falar da nossa primeira viagem de avião, o que foi muito marcante para nós por vários motivos, e o nosso destino internacional escolhido foi o CANADÁ.
 Esse país é maravilhoso, com muitos lugares para visitar, cidades extremamente bem organizadas e limpas, a segurança nas cidades do Canadá também chama a atenção, a sensação de segurança é incrível, não é preciso caminhar muito para você encontrar logo na esquina policiamento mas não é isso que dá essa sensação e sim as pessoas que você encontra, a educação e atenção que os canadense tem é de cair o queixo, por exemplo se você está andando na rua e um canadense acha que vai bater em você ou pode chegar perto disso ele já solta um "Sorry!", no final das contas até você entra na onda e começa a agir dessa forma também porque é muito bonito de ver.
