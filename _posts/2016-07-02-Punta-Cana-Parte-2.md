@@ -4,9 +4,8 @@ title:  "15 dias em Punta Cana - Parte 2"
 date:   2016-07-02 16:00:31 +0000
 categories: melhores-destinos
 description: Veja como é se hospedar no Hotel Caribe Club Princess; nadar com golfinhos, tubarões, arraias e focas em aguas salgadas cristalinas de Punta Cana.
-thumb: (http://www.viajandonasferias.com.br/imagens/post3/capa.jpg)
+thumb: http://www.viajandonasferias.com.br/imagens/post3/capa.jpg
 ---
-
 
 Conforme última postagem, vou continuar falando sobre nossa experiência em Punta Cana na República Domenicana. Agora vamos contar como foram nossas experiências com os hotéis que ficamos e os passeios que fizemos.
 

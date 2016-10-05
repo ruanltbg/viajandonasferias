@@ -4,9 +4,8 @@ title:  "15 dias em Punta Cana - Parte 3"
 date:   2016-07-03 16:08:31 +0000
 categories: melhores destinos
 description: Já fez um passeio de Catamaran? Não, então veja como é. Além de saber como é se hospedar no Bávaro Pincess Punta Cana. 
-Thumb: (http://www.viajandonasferias.com.br/imagens/post4/capa.jpg)
+thumb: http://www.viajandonasferias.com.br/imagens/post4/capa.jpg
 ---
-
 
 Olá meus queridos!! Essa postagem sobre nossa experiência em Punta Cana está rendendo não é mesmo?? Mas esse será o último da saga...hihihihihihi 
 

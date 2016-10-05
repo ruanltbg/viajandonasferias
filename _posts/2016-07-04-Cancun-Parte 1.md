@@ -4,9 +4,8 @@ title:  "Aproveitando 7 dias em Cancun - Parte 1"
 date:   2016-07-04 16:08:31 +0000
 categories: melhores destinos
 description: Como é viajar pela Delta por promoção pagando duas passagens por uma, e o Krystal Cancun sem incluir refeições vale pena?
-thumb: (http://www.viajandonasferias.com.br/imagens/post5/capa.jpg)
+thumb: http://www.viajandonasferias.com.br/imagens/post5/capa.jpg
 ---
-
 
 Olá gente querida!!! Ainda no embalo de sol, praia e calor, esta postagem vai para aqueles que estão programando uma visitinha em uma das praias mais cobiçadas do mundo todo e que pra mim é o paraíso na terra, a deliciosa CANCUN!!!
 
