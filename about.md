@@ -9,7 +9,7 @@ Nosso principal objetivo é compartilhar nossas experiencias em viagens, ou seja
 
 Além de contar como foram nossas experiência contamos as dicas que possívelmente irá ajudar aos viajantes daqueles destinos a evitar as dores de cabeça e besteira que fizemos por falta de conhecimento.
 
-### Autores
+###Autores###
 
 {% include image.html url="http://www.viajandonasferias.com.br/imagens/sobre.jpg" description="Somos dois." %}
 
@@ -21,7 +21,7 @@ Sou formada em Secretariado Executivo e devido a profissão sempre precisei orga
 
  Sou analista de sistema e sempre escolho uma viaja para comemorar algo, seja a vida, , meu aniversário ou da esposa, aniversário de casamento, dia dos namorados, Natal, Ana Novo, é sempre bom comemorar e porque não em um lugar que nunca estive. Prometi mostrar o mundo para minha esposa e estou cumprindo e você pode acompanhar essa jornada, vem junto!
 
-### Quer contribuir, elogiar, reclamar, sugerir ou participar?
+### Quer contribuir, elogiar, reclamar, sugerir ou participar? ###
 
 Você pode comentar nas postagens, pelo facebook, instagram, snapchat e também pode mandar seu e-mail para viajandonasferias@gmail.com e responderemos o mais breve possível.
 
