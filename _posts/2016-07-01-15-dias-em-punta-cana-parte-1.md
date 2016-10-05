@@ -3,7 +3,7 @@ layout: post
 title:  "15 dias em Punta Cana. - Parte 1"
 date:   2016-07-01 15:44:31 +0000
 categories: Diario de bordo
-Description: Veja como é o aeroporto, taxi, estradas de Punta Cana.
+description: Veja como é o aeroporto, taxi, estradas de Punta Cana.
 thumb: http://www.viajandonasferias.com.br/imagens/post2/capa.jpg
 ---
 
@@ -41,7 +41,9 @@ Logo depois de fazer o protocolo da Avianca fomos até a parte de imigração do
 
 O taxi foi relativamente barato, se comparar as outras opções e a distância. O trajeto até o hotel foi tranquilo, haviam várias obras na pista, mas não prejudicou em nada nossa chegada até o hotel, pois a estrada era muito boa. 
 
-{% include image.html url="http://www.viajandonasferias.com.br/imagens/post2/trajeto.jpg" description="Estradas em Punta Cana, a maioria em reforma." %}
+{% include image.html url="http://www.viajandonasferias.com.br/imagens/post2/trajeto.jpg" description="" %}
+
+{% include image.html url="http://www.viajandonasferias.com.br/imagens/post2/trajeto1.jpg" description="Estradas em Punta Cana, a maioria em reforma." %}
 
 Nas próximas postagens vou dizer como foi nossa experiência com os hotéis que ficamos e os passeios que fizemos com dicas que vai ajudar muito você que está organizando ou planejando uma viagem para Punta Cana.
 
