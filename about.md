@@ -9,7 +9,7 @@ Nosso principal objetivo é compartilhar nossas experiencias em viagens, ou seja
 
 Além de contar como foram nossas experiência contamos as dicas que possívelmente irá ajudar aos viajantes daqueles destinos a evitar as dores de cabeça e besteira que fizemos por falta de conhecimento.
 
-###Autores###
+### Autores###
 
 {% include image.html url="http://www.viajandonasferias.com.br/imagens/sobre.jpg" description="Somos dois." %}
 
