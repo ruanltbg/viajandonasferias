@@ -7,6 +7,8 @@ Description: Veja como é o aeroporto, taxi, estradas de Punta Cana.
 thumb: http://www.viajandonasferias.com.br/imagens/post2/capa.jpg
 ---
 
+{% include image.html url="http://www.viajandonasferias.com.br/imagens/post5/cancun.jpg" description="Imagem de quando chegamos, apesar do céu nublado, o clima estava bem gostoso e a água meu caro, ahhh e de tirar o folego." %}
+
 Aos amantes de calor, sol e praia eu dedico esse post. Se você adora essa combinação, quer conhecer um lugar fora do Brasil e ainda com preço abaixo de muito destino praiano internacional, Punta Cana na República Domenicana é uma boa pedida.
 
 As praias lá são paradisíacas, água cristalina, areia branca, resorts cinco estrelas, passeios inesquecíveis, enfim, lugar que vale muito a pena conhecer. Escolhemos visitar a cidade, na nossa “lua de mel” em julho de 2013, e foi sensacional. 
