@@ -11,7 +11,7 @@ Além de contar como foram nossas experiência contamos as dicas que possívelme
 
 ###Autores
 
-{% include image.html url="http://www.viajandonasferias.com.br/imagens/post1/sobre.jpg" description="Somos dois." %}
+{% include image.html url="http://www.viajandonasferias.com.br/imagens/sobre.jpg" description="Somos dois." %}
 
 **Olá, Sou a Stefanie**
 
