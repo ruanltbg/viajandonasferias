@@ -35,6 +35,8 @@ Outras pessoas que estavam no nosso vôo também tiveram a mesma "sorte" que a n
 
 {% include image.html url="http://www.viajandonasferias.com.br/imagens/post2/aeroporto.jpg" description="O aeroporto de Punta Cana é bem simples, não tem finger, você desse direto na pista e continua até a área de desembarque, apesar de simples é bem organizado, limpo e o pessoal de apoio é muito simpático." %}
 
+{% include image.html url="http://www.viajandonasferias.com.br/imagens/post2/aeroporto2.jpg" description="Essa é a parte do embarque, bem simples também, o espaço é aberto, sem portas, e n teto uns ventiladores enorme que parecem hélices de helicóptero." %}
+
 Logo depois de fazer o protocolo da Avianca fomos até a parte de imigração do aeroporto, pagamos a taxa no valor de US$ 10.00 para entrar no país, e finalmente chegamos na área de desembarque, essa parte é uma loucura, cheia de operadores de taxi e vans que fazem o translado até os hotéis. Nós optamos por um taxi mesmo, na área externa do aeroporto.
 
 **O taxi**
