@@ -7,7 +7,7 @@ description: Já fez um passeio de Catamaran? Não, então veja como é. Além d
 thumb: http://www.viajandonasferias.com.br/imagens/post4/capa.jpg
 ---
 
-Olá meus queridos!! Essa postagem sobre nossa experiência em Punta Cana está rendendo não é mesmo?? Mas esse será o último da saga...hihihihihihi 
+Olá meus queridos!! Essa postagem sobre nossa experiência em Punta Cana está rendendo não é mesmo?? Mas esse será o último da saga.
 
 **Passeios**
 
