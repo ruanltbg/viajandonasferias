@@ -19,48 +19,39 @@ O primeiro hotel que ficamos foi o Caribe Clube Princess da rede de hotéis Prin
 
 {% include image.html url="http://www.viajandonasferias.com.br/imagens/post3/caribe2.jpg" description="Fotos da suíte que ficamos, o quarto e o banheiro eram bem espaçosos, com frigobar equipado (sem custo adicional), secador de cabelo, televisão com canais a cabo, ar condicionado mega potente, ventilador de teto e ainda tinha uma varandinha que dá para estender aquelas roupas de praia para secar rapidinho." %}
 
-![Suíte visão de fora Caribe Club Princess](http://www.viajandonasferias.com.br/imagens/post3/caribe3.jpg)
-> Visão de fora das suítes, como tinha muitas matas e lagos dentro do hotel volta e meia apareciam patos e pavões na sacada do quarto, contato bem próximo com a natureza.
+{% include image.html url="http://www.viajandonasferias.com.br/imagens/post3/caribe3.jpg" description="Visão de fora das suítes, como tinha muitas matas e lagos dentro do hotel volta e meia apareciam patos e pavões na sacada do quarto, contato bem próximo com a natureza." %}
 
 As opções de restaurantes são muitas,  buffet com pratos do mundo todo, fast foods, snacks, tudo bem fresquinho e bem preparado. A noite tinham jantares temáticos onde cada noite tinham opções de pratos de cada lugar do mundo, além dos jantares temáticos haviam restaurantes com culinária específica de cada país, particularmente nós gostamos muito de comida mexicana, então esse foi nosso restaurante favorito.
 
-![Pratos Caribe Club Princess](http://www.viajandonasferias.com.br/imagens/post3/comida.jpg)
+{% include image.html url="http://www.viajandonasferias.com.br/imagens/post3/comida.jpg"  %}
 
-![Pratos Caribe Club Princess](http://www.viajandonasferias.com.br/imagens/post3/comida1.jpg)
+{% include image.html url="http://www.viajandonasferias.com.br/imagens/post3/comida1.jpg"  %}
 
-![Pratos Caribe Club Princess](http://www.viajandonasferias.com.br/imagens/post3/comida2.jpg)
+{% include image.html url="http://www.viajandonasferias.com.br/imagens/post3/comida2.jpg"  %}
 
-![Pratos Caribe Club Princess](http://www.viajandonasferias.com.br/imagens/post3/comida3.jpg)
+{% include image.html url="http://www.viajandonasferias.com.br/imagens/post3/comida3.jpg"  %}
 
-![Pratos Caribe Club Princess](http://www.viajandonasferias.com.br/imagens/post3/comida4.jpg)
-> Muitas opções, para todos os paladares e gostos... sempre fomos bem atendidos, e a comida sempre veio quentinha, fresquinha e muito bem preparada.
+{% include image.html url="http://www.viajandonasferias.com.br/imagens/post3/comida4.jpg" description="Muitas opções, para todos os paladares e gostos... sempre fomos bem atendidos, e a comida sempre veio quentinha, fresquinha e muito bem preparada." %}
 
 Além de comida e bebida, o hotel tinha opções de entretenimento tais como discoteca, teatro com shows diferentes todas as noites, jogos, gincanas e aulas de dança na piscina, playground e children care para as crianças. O hotel tinha lojas de souvenires com doces e salgadinhos caso tenha vontade de comer algo diferente do que o hotel serve.
 
-![Externo Caribe Club Princess](http://www.viajandonasferias.com.br/imagens/post3/hotel.jpg)
-> O contato com a natureza é constante e muito bonito.
+{% include image.html url="http://www.viajandonasferias.com.br/imagens/post3/hotel.jpg" description="O contato com a natureza é constante e muito bonito." %}
 
-![Externo Caribe Club Princess](http://www.viajandonasferias.com.br/imagens/post3/hotel2.jpg)
-> Espetáculo teatral do Rei Leão, houve interação com o público infantil  e muita produção de som, luzes e fumaça. 
+{% include image.html url="http://www.viajandonasferias.com.br/imagens/post3/hotel2.jpg" description="Espetáculo teatral do Rei Leão, houve interação com o público infantil  e muita produção de som, luzes e fumaça. " %}
 
 **Passeios**
 
 Dentro do hotel existem o serviço de câmbio e também de excursões, as opções são muitas, nós decidimos fazer um passeio que era de dois dias, no pacote incluía o transporte de ida e volta nos dois dias de passeio, no primeiro dia fomos até uma praia onde vimos e interagimos com golfinhos, arraias, focas, leões marinhos e tubarões. A empresa oferecia coletes, óculos e snorkel de mergulho, além de oferecer armários para guarda de pertences.
 
-![Praia Passeio](http://www.viajandonasferias.com.br/imagens/post3/praiapasseio.jpg)
-> Praia muito linda com areia branca e agua cristalina onde estão os tanques com os golfinhos, focas, tubarões e arraias.
+{% include image.html url="http://www.viajandonasferias.com.br/imagens/post3/praiapasseio.jpg" description="Praia muito linda com areia branca e agua cristalina onde estão os tanques com os golfinhos, focas, tubarões e arraias. " %}
 
-![Leao Marinho](http://www.viajandonasferias.com.br/imagens/post3/leaomarinho.jpg)
-> Show dos leões marinhos, eles interagem com os treinadores e no final, se quiser, pode ganhar um beijinho na bochecha.
+{% include image.html url="http://www.viajandonasferias.com.br/imagens/post3/leaomarinho.jpg" description="Show dos leões marinhos, eles interagem com os treinadores e no final, se quiser, pode ganhar um beijinho na bochecha. " %}
 
-![Golfinhos](http://www.viajandonasferias.com.br/imagens/post3/golfinho.jpg)
-> Golfinhos!!! Lindos!!!
+{% include image.html url="http://www.viajandonasferias.com.br/imagens/post3/golfinho.jpg" description="Golfinhos!!! Lindos!!! " %}
 
-![Tubarao](http://www.viajandonasferias.com.br/imagens/post3/tubarao.jpg)
-> Nós nadamos livres no tanque dos tubarões e arraias, mas eles ficam bem quietinhos no fundo do mar e os instrutores estão sempre por perto para ajudar no que precisar.
+{% include image.html url="http://www.viajandonasferias.com.br/imagens/post3/tubarao.jpg" description="Nós nadamos livres no tanque dos tubarões e arraias, mas eles ficam bem quietinhos no fundo do mar e os instrutores estão sempre por perto para ajudar no que precisar." %}
 
-![Aves](http://www.viajandonasferias.com.br/imagens/post3/cctua.jpg)
-> No final do dia o show com aves lindas de várias espécies, impressionou.
+{% include image.html url="http://www.viajandonasferias.com.br/imagens/post3/cctua.jpg" description="No final do dia o show com aves lindas de várias espécies, impressionou." %}
 
 Quem escolhe viajar para Punta Cana tem que estar preparado para ver paisagens paradisíacas, aquelas imagens que se vê em filmes, lugares lindos e inesquecíveis, com opções de diversão para todas as idades. 
 
