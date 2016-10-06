@@ -55,6 +55,8 @@ Este dia foi sensacional, do começo ao fim o passeio foi maravilhoso, no dia n�
 
 {% include image.html url="/imagens/post6/xcaretparque2.jpg" description="Uma das piscinas naturais, o parque oferece snorkel e nadadeiras para contemplar a vida marinha dessa região." %}
 
+{% include image.html url="/imagens/post6/xcaretrestaurante1.jpg" description="" %}
+
 {% include image.html url="/imagens/post6/xcaretrestaurante.jpg" description="Restaurante La Coccina um dos restaurantes disponíveis dentro do parque, cada restaurante serve uma especialidade diferente, este serve comida mexicana, a variadade de pratos impresionam." %}
 
 {% include image.html url="/imagens/post6/espetaculo.jpg" description="No final do dia, todas as atrações do parque fecham e todos são direcionados ao enorme palco para assistir um espetáculo com as perfomances da cultura e costumes locais. Foi um show de fantasias, luzes, fogo e animais. Muito lindo!!!." %}
