@@ -23,8 +23,6 @@ Depois do mergulho o catamaran parou em uma praia chamanda  Sanctuary Cabeza de 
 
 {% include image.html url="/imagens/post4/passeio1.jpg" description="Local onde o barco parou onde podemos aproveitar a água cristalina." %}
 
-{% include image.html url="/imagens/post4/passeio2.jpg" description="Eu estava com medo de que não desse pé para mim, desci bem desconfiada, mas no final deu pé e deu para aproveitar bastante." %}
-
 {% include image.html url="/imagens/post4/passeio3.jpg" description="Aí o Ruan estava encantado com a água, que dava para ver até a unha do dedo minguinho do pé." %}
 
 Depois do passeio, no barco já voltando para o pier, foi servido um lanchezinho simples mas que veio em boa hora, porque depois de passar algumas horas na água a fome bate forte e além do lanche tocaram música e o pessoal do barco entreteu o pessoal fazendo dancinhas para animar.
