@@ -15,11 +15,9 @@ As opções de hotéis em Punta Cana são muitas, você pode escolher qual se en
 
 O primeiro hotel que ficamos foi o Caribe Clube Princess da rede de hotéis Princess. O hotel é maravilhoso, é enorme mas tem um trenzinho que passa próximo das acomodações para transportar os hóspedes dentro do hotel. Este hotel tem a opção de All-inclusive, que é aquele pacote que você paga um valor de diária e pode comer e beber tudo a vontade em qualquer restaurante do hotel. Este pacote valeu a pena neste hotel, pois a região que ele está é complicado para sair comer e se for pagar por refeição por pessoa no hotel o preço pode ser meio salgado.
 
-![Suíte Caribe Club Princess](http://www.viajandonasferias.com.br/imagens/post3/caribe.jpg)
+{% include image.html url="http://www.viajandonasferias.com.br/imagens/post3/caribe.jpg"  %}
 
-
-![Suíte interno Caribe Club Princess](http://www.viajandonasferias.com.br/imagens/post3/caribe2.jpg)
-> Fotos da suíte que ficamos, o quarto e o banheiro eram bem espaçosos, com frigobar equipado (sem custo adicional), secador de cabelo, televisão com canais a cabo, ar condicionado mega potente, ventilador de teto e ainda tinha uma varandinha que dá para estender aquelas roupas de praia para secar rapidinho.
+{% include image.html url="http://www.viajandonasferias.com.br/imagens/post3/caribe2.jpg" description="Fotos da suíte que ficamos, o quarto e o banheiro eram bem espaçosos, com frigobar equipado (sem custo adicional), secador de cabelo, televisão com canais a cabo, ar condicionado mega potente, ventilador de teto e ainda tinha uma varandinha que dá para estender aquelas roupas de praia para secar rapidinho." %}
 
 ![Suíte visão de fora Caribe Club Princess](http://www.viajandonasferias.com.br/imagens/post3/caribe3.jpg)
 > Visão de fora das suítes, como tinha muitas matas e lagos dentro do hotel volta e meia apareciam patos e pavões na sacada do quarto, contato bem próximo com a natureza.
