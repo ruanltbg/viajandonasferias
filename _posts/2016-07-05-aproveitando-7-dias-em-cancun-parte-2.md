@@ -31,9 +31,7 @@ De barriga cheia e feito o reconhecimento da região, já era hora de ir, chegam
 
 {% include image.html url="/imagens/post6/hotel.jpg" description="Região da piscina principal, com muitas espreguiçadeiras bem propícias para tomar banho de sol, já que essa parte era difícil de achar sombras." %}
 
-{% include image.html url="/imagens/post6/hote2.jpg" description="" %}
-
-{% include image.html url="/imagens/post6/hotel4.jpg" description="Piscina principal, confesso que é bem gelada, acho que eles resfriam a água, porque sempre estava super gelada independente do sol e calor que fizesse. Nesta piscina tinha aulas de dança e aérobica." %}
+{% include image.html url="/imagens/post6/hotel2.jpg" description="Piscina principal, confesso que é bem gelada, acho que eles resfriam a água, porque sempre estava super gelada independente do sol e calor que fizesse. Nesta piscina tinha aulas de dança e aérobica." %}
 
 {% include image.html url="/imagens/post6/hotel3.jpg" description="Praia em frente ao hotel, devido aquelas pedras ao fundo essa parte é privilegiada por não ter ondas, o que faz essa parte da praia uma das melhores para mergulhar pois é possível ver vários peixinhos e dá para ter idéia do quão cristalina é a água." %}
 
