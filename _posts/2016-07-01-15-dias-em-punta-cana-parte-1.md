@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "15 dias em Punta Cana. - Parte 1"
+title:  "15 dias em Punta Cana-Parte 1"
 date:   2016-07-01 15:44:31 +0000
 categories: Diario de bordo
 description: Veja como é o aeroporto, taxi, estradas de Punta Cana.
