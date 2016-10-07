@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Hotel da Disney - All Stars Movies Resort"
-date:   2016-07-05 16:08:31 +0000
+date:   2016-10-07 16:08:31 +0000
 categories: melhores-destinos
-description: O que há na região do Hotel Krystal Cancun. Como são os passeios no Xcaret e Jungle Tour.
-thumb: /imagens/post6/capa.jpg
+description: Veja como é se hospedar em um hotel da Disney da categoria econômica.
+thumb: /imagens/post7/entradaprincipal.jpg
 ---
 
 Ahhh a Disney, acho que qualquer pessoa nesse universo que quando o ouve a palavrinha não suspira e se perguntar se gostaria de visitar qualquer coisa, seja parque, hotel, cidade o que quer que seja responderia SIM sem titubear.
