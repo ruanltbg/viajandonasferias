@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "15 dias em Punta Cana - Parte 2"
+title:  "15 dias em Punta Cana-Parte 2"
 date:   2016-07-02 16:00:31 +0000
 categories: melhores-destinos
 description: Veja como é se hospedar no Hotel Caribe Club Princess; nadar com golfinhos, tubarões, arraias e focas em aguas salgadas cristalinas de Punta Cana.
