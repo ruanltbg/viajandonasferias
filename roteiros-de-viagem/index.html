@@ -1,0 +1,29 @@
+---
+layout: default
+title: Roteiros de viagem - Viajando nas férias
+description:
+  Dicas e compartilhamento de nossas experiencias de viagens, permitindo trocar
+  conhecimentos sobre roteiros, ajudando pessoas a organizar suas viagens sozinhas.
+comments: false
+---
+<div id="features-wrapper">
+  <div class="container">
+    <div class="row">
+      {% for post in site.categories.roteiros-de-viagem %}
+        <div class="4u 12u(medium)">
+          <section class="box feature">
+            <a href="{{ post.url }}" class="image featured"><img src="{{ post.thumb }}" alt="" /></a>
+            <div class="inner">
+              <header>
+                <h2><a href="{{ post.url }}" class="image featured">{{ post.title }}</a></h2>
+                <time>{{ post.date | date: '%d/%m/%Y' }}</time>
+              </header>
+              <p>{{post.description}}</p>
+            </div>
+          </section>
+        </div>
+      {% endfor %}
+    </div>
+    <!-- <a href="/posts/">Ver todos</a> -->
+  </div>
+</div>
