@@ -29,9 +29,9 @@ Como o próprio nome diz, o Disney’s All- Star Movies Resort tem a temática d
 
 A recepção é gigantesca que fica no prédio principal chamado Cinema Hall, sim tem cineminha lá é claro com os filmes da própria. Além do cinema, nesse prédio fica a loja com os diversos produtos da Disney, mas com alguns itens exclusivos que acompanham a temática do hotel. A praça de alimentação e a sala de jogos também ficam no prédio principal, onde são pagos à parte, ou seja não estão incluídos na sua diária a não ser que você tenha comprado um programa de alimentação junto com sua estadia.
 
-{% include image.html url="/imagens/post7/Cinema.jpg" description="Fonte: Divulgação." %}
+{% include image.html url="/imagens/post7/cinema.jpg" description="Fonte: Divulgação." %}
 
-{% include image.html url="/imagens/post7/Cinema1.jpg" description="Fonte: Divulgação. Logo na entrada do prédio principal, bem em frente dos guiches da recepção cineminha para as crianças, mas adulto também pode." %}
+{% include image.html url="/imagens/post7/cinema1.jpg" description="Fonte: Divulgação. Logo na entrada do prédio principal, bem em frente dos guiches da recepção cineminha para as crianças, mas adulto também pode." %}
 
 **Recreação**
 
@@ -47,7 +47,7 @@ No prédio principal estavam os jogo de fliperama, com uma variedade grande de j
 
 {% include image.html url="/imagens/post7/salajogos.jpg" description="Fonte: Divulgação. " %}
 
-** Compras **
+**Compras**
 
 Pelo fato do hotel ser afastado de centros comerciais, a loja da Disney dentro do hotel pode salvar quem quiser comprar presentinhos dos os personagens da Disney, a variedade é enorme de itens, tem praticamente de tudo e algumas coisas exclusivas, que não se encontra em nenhuma outra loja da Disney.
 
@@ -56,7 +56,7 @@ Pelo fato do hotel ser afastado de centros comerciais, a loja da Disney dentro d
 {% include image.html url="/imagens/post7/loja1.jpg" description="Fonte: Divulgação. Se você quer algum brinquedo ou qualquer outro item que viu no primeiro dia e acabou não comprando, mas resolveu comprar outro dia e não encontrou, consulte um vendedor para saber se não há disponibilidade em alguma loja de outros hotéis. " %}
 
  
-** Alimentação**
+**Alimentação**
 
 O hotel tem uma praça de alimentação enorme também, funciona o dia todo, servindo café da manhã, almoço e jantar no sistema À la carte e Buffet. O sistema À la carte é simples você paga por item, e o buffet para se servir à vontade pelo custo de US$ 14,99 por pessoa, por refeição.
 
@@ -108,7 +108,7 @@ O banheiro tinha banheira, secador de cabelo e amenities. Em frente ao banheiro 
 
 Os blocos de quartos tinham máquinas com petiscos e refrigerantes além de uma máquina de gelo, mesmo sendo somente 2 andares tinha um elevador grande para facilitar a descarregar as malas e acessibilidade total aos andares.
 
-{% include image.html url="/imagens/post7/externo2.jpg" description="Foto da parte externa" %}
+{% include image.html url="/imagens/post7/externo2.jpg" description="Parte externa do bloco de quartos que ficamos. Todos os dias eram assim, muito limpo e organizado" %}
 
 
 **Magic Hours**
