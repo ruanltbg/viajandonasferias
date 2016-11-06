@@ -27,7 +27,9 @@ Como o próprio nome diz, o Disney’s All- Star Movies Resort tem a temática d
 
 **Recepção**
 
-A recepção é gigantesca que fica no prédio principal chamado Cinema Hall, sim tem cineminha lá é claro com os filmes da própria. Além do cinema, nesse prédio fica a loja com os diversos produtos da Disney, mas com alguns itens exclusivos que acompanham a temática do hotel. A praça de alimentação e a sala de jogos também ficam no prédio principal, onde são pagos à parte, ou seja não estão incluídos na sua diária a não ser que você tenha comprado um programa de alimentação junto com sua estadia.
+A recepção é gigantesca que fica no prédio principal chamado Cinema Hall, sim tem cineminha lá é claro com os filmes da própria. Na recepção , o check-in é super simples e rápido apenas algumas conferências na documentação e cartão de crédito e então você recebe a sua Magic Band, que é a famosa pulserinha da Disney que vai ser seu cartão de entrada para o quarto e parques, além de ser o seu cartão de crédito para compras nas lojas e restaurantes da Disney, mas fique tranquilo vou fazer um post especial para explicar como funciona essa pulserinha. 
+
+{% include image.html url="/imagens/post7/recepção.jpg" description="Fonte: TripAdvisor." %}
 
 {% include image.html url="/imagens/post7/cinema.jpg" description="Fonte: Divulgação." %}
 
@@ -43,7 +45,7 @@ Duas piscinas, uma com a decoração do Mickey e outra decorada com o filme The 
 
 {% include image.html url="/imagens/post7/piscina.jpg" description="Ficamos em um quarto em frente a esta piscina, mas infelizmente não conseguimos usá-la pois normalmente chegávamos tarde dos parques." %}
 
-No prédio principal estavam os jogo de fliperama, com uma variedade grande de jogos, jogos de dança,velocidade, tiros, enfim o que não falta é jogo, porém para utilizar as máquinas é necessário o pagamento a parte da diária, onde se faz a compra do cartão na recepção e cada máquina tem um valor diferente.
+No prédio principal estavam os jogo de fliperama, com uma variedade grande de jogos, dança, velocidade, tiros, enfim o que não falta é jogo, porém para utilizar as máquinas é necessário o pagamento a parte da diária, onde se faz a compra do cartão na recepção e cada máquina tem um valor diferente.
 
 {% include image.html url="/imagens/post7/salajogos.jpg" description="Fonte: Divulgação. " %}
 
@@ -58,7 +60,7 @@ Pelo fato do hotel ser afastado de centros comerciais, a loja da Disney dentro d
  
 **Alimentação**
 
-O hotel tem uma praça de alimentação enorme também, funciona o dia todo, servindo café da manhã, almoço e jantar no sistema À la carte e Buffet. O sistema À la carte é simples você paga por item, e o buffet para se servir à vontade pelo custo de US$ 14,99 por pessoa, por refeição.
+O hotel tem uma praça de alimentação enorme também, funciona o dia todo, servindo café da manhã, almoço e jantar no sistema À la carte e Buffet. O sistema À la carte é simples você paga por item do menu, e o buffet para se servir à vontade pelo custo de US$ 14,99 por pessoa, esse valor pode variar por refeição.
 
 {% include image.html url="/imagens/post7/pracadealimentacao.jpg" description="Fonte: Divulgação." %}
 
@@ -66,7 +68,7 @@ O hotel tem uma praça de alimentação enorme também, funciona o dia todo, ser
 
 {% include image.html url="/imagens/post7/pracadealimentacao2.jpg" description="Fonte: Divulgação." %}
 
-É possível fazer a compra das refeições junto com a reserva do hotel, a Disney tem vários programas de refeições que em algumas épocas do ano ficam bem baratas e valem a pena, o que não foi nosso caso e não fizemos nenhuma refeição no hotel, normalmente íamos até o centro de Orlando para jantar e fazer compras no Walmart. 
+É possível fazer a compra das refeições junto com a reserva do hotel, a Disney tem vários programas de refeições que em algumas épocas do ano ficam bem baratas e valem a pena, o que não foi nosso caso e também não fizemos nenhuma refeição no hotel, normalmente íamos até a International Drive, uma das ruas mais movimentadas de Orlando para jantar e fazer compras no Walmart mais próximo. 
 
 A região do hotel não tem muita coisa por perto, são somente os hotéis mesmo, o único restaurante perto mesmo era um Mc Donalds, então é bom se organizar para poder ter suas refeições, pois em Orlando a variedade de restaurantes e enorme e fácil de escolher a que mais lhe agradar.
 
