@@ -129,15 +129,12 @@ Bjos e até a próxima!
 
 Links úteis:
 
-Site que reservamos este hotel
-https://www.hoteis.com/ho234365/disney-s-all-star-movies-resort-lago-buena-vista-estados-unidos/?locale=pt_BR&pos=HCOM_BR
+[Site que reservamos este hotel](https://www.hoteis.com/ho234365/disney-s-all-star-movies-resort-lago-buena-vista-estados-unidos/?locale=pt_BR&pos=HCOM_BR)
 
 
-Site Disney para ter mais informações sobre o hotel
-http://disneyworld.disney.go.com/pt-br/resorts/all-star-movies-resort/
+[Site Disney para ter mais informações sobre o hotel](http://disneyworld.disney.go.com/pt-br/resorts/all-star-movies-resort/)
 
-Site Disney para ter mais informações sobre planos de refeições
-https://disneyworld.disney.go.com/pt/special-offers/stay-dine-package/
+[Site Disney para ter mais informações sobre planos de refeições](https://disneyworld.disney.go.com/pt/special-offers/stay-dine-package/)
 
 [Site Disney para saber sobre as Magic Hours de cada parque](https://disneyworld.disney.go.com/pt/calendars/2016-11-08/)
 
