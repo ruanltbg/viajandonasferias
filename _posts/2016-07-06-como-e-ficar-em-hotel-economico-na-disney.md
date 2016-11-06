@@ -139,8 +139,7 @@ http://disneyworld.disney.go.com/pt-br/resorts/all-star-movies-resort/
 Site Disney para ter mais informações sobre planos de refeições
 https://disneyworld.disney.go.com/pt/special-offers/stay-dine-package/
 
-Site Disney para saber sobre as Magic Hours de cada parque
-https://disneyworld.disney.go.com/pt/calendars/2016-11-08/
+[Site Disney para saber sobre as Magic Hours de cada parque](https://disneyworld.disney.go.com/pt/calendars/2016-11-08/)
 
 
 
