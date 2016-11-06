@@ -39,7 +39,7 @@ Já quando chega no hotel tem o cineminha com filmes da Disney em frente a recep
 
 Duas piscinas, uma com a decoração do Mickey e outra decorada com o filme The Mighty Ducks, ambas tinham salva vidas e eram protegidas com cercas altas, o que achei bem legal no quesito segurança. Haviam atividades recreativas na piscina durante o dia pois na hora do check-in recebemos o cronograma de atividades, mas não conseguimos participar de nenhuma pois durante todos os dias estávamos nos parques.
 
-{% include image.html url="/imagens/post7/piscina1.jpg" description="Fonte: Divulgação. Piscina na área central do resort. A decoração é do show Fantasmic exibido no parque Hollywood Studios." %}
+{% include image.html url="/imagens/post7/piscina1.jpg" description="Fonte:Divulgação. Piscina na área central do resort. A decoração é do show Fantasmic exibido no parque Hollywood Studios." %}
 
 {% include image.html url="/imagens/post7/piscina.jpg" description="Ficamos em um quarto em frente a esta piscina, mas infelizmente não conseguimos usá-la pois normalmente chegávamos tarde dos parques." %}
 
