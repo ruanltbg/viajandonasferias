@@ -106,19 +106,19 @@ O banheiro tinha banheira, secador de cabelo e amenities. Em frente ao banheiro 
 
 {% include image.html url="/imagens/post7/amenities.jpg" description="Até os amenitites eram temáticos." %}
 
-Os blocos de quartos tinham máquinas com petiscos e refrigerantes além de uma máquina de gelo, mesmo sendo somente 2 andares tinha um elevador grande para facilitar a descarregar as malas e acessibilidade total aos andares.
+Os blocos de quartos tinham máquinas com petiscos e refrigerantes além de uma máquina de gelo e mesmo sendo somente 2 andares tinha um elevador grande para facilitar a descarregar as malas e acessibilidade total aos andares.
 
-{% include image.html url="/imagens/post7/externo2.jpg" description="Parte externa do bloco de quartos que ficamos. Todos os dias eram assim, muito limpo e organizado" %}
+{% include image.html url="/imagens/post7/externo2.jpg" description="Parte externa do bloco de quartos que ficamos. Todos os dias eram assim, muito limpo e organizado. " %}
 
 
 **Magic Hours**
 
 Outra das grandes vantagens de se hospedar em um hotel da Disney são as Magic Hours, que são as horas extras que os parques ficam abertos somente para hóspedes dos hotéis da Disney, essa vantagem é simplesmente MARAVILHOSA, porque as filas de praticamente todos os brinquedos diminuem e o parque continua normalmente com todas as atrações, luzes, personagens, lojas, shows e restaurantes.
 
-O All Star Movie Resort é um dos hotéis que tem essa vantagem, mas caso esteja de olho em outro hotel é bom ficar atento se o hotel está na lista, pois nem todos os hotéis da Disney possuem essa vantagem.
+O All Star Movie Resort é um dos hotéis que tem essa vantagem, mas caso esteja de olho em outro é bom ficar atento se o hotel está na lista, pois nem todos os hotéis da Disney possuem essa vantagem.
 
 
-Esse é o hotel que posso dizer que é BBB - Bom, Bonito e Barato, nossa estadia foi maravilhosa, uma experiencia incrível que recomendo para todos, estando lá você percebe que tudo que tem o nome Disney está atrelado à qualidade e excelência em serviço.
+Esse é o hotel que posso dizer que é BBB - Bom, Bonito e Barato, nossa estadia foi SENSACIONAL, uma experiencia incrível que recomendo para todos, estando lá você percebe que tudo que tem o nome Disney está atrelado a qualidade e excelência em serviço.
 
 
 Se você ficou com alguma dúvida ou quer ajuda com a montagem da sua viagem, manda pra gente na nossa pagina do facebook!
