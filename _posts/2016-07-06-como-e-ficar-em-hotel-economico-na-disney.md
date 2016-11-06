@@ -82,7 +82,7 @@ O embarque é em frente ao hotel com uma frequência de ônibus de mais ou menos
 
 As filas eram separadas por parques, a que normalmente estava lotada era para o Magic Kingdom mas outras eram bem tranquilas e logo que o ônibus chegava já embarcamos, os trajetos eram super rápidos, em média 20 minutinhos e já estava na porta do parque.
 
-{% include image.html url="/imagens/post7/onibusdisney1.jpg" description="Fonte: Divulgação. Os onibus são livres de acesso, os hospedes de qualquer hotel do complexo da Disney pode embarcar em qualquer hotel, mesmo que não seja o que está hospedado, nós sempre pegamos o onibus do hotel ao lado, por ser mais proximo do nosso quarto." %}
+{% include image.html url="/imagens/post7/onibusdisney1.jpg" description="Os onibus são livres de acesso, os hospedes de qualquer hotel do complexo da Disney pode embarcar em qualquer hotel, mesmo que não seja o que está hospedado, nós sempre pegamos o onibus do hotel ao lado, por ser mais proximo do nosso quarto." %}
 
 Além do transporte aos parque, havia transporte para a Disney Springs, que é o shopping à céu aberto da Disney, para explicar melhor vou fazer um post especial para explicar sobre como é.
 
