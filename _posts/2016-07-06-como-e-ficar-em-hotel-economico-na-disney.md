@@ -7,7 +7,7 @@ description: Veja como é se hospedar no hotel All Star Movies Resort, hotel da 
 thumb: /imagens/post7/entradaprincipal.jpg
 ---
 
-Ahhh a Disney, acho que qualquer pessoa nesse universo que quando ouve essa palavrinha não suspira, e se perguntar se gostaria de visitar qualquer coisa, seja parque, hotel, cidade o que quer que seja responderia SIM sem titubear.
+Ahhh a Disney, acho que qualquer pessoa nesse universo quando ouve essa palavrinha suspira, e se perguntar se gostaria de visitar qualquer coisa, seja parque, hotel, cidade o que quer que seja responderia SIM sem titubear.
 
 
 Realmente a Disney como um todo é negócio de maluco, eles conseguem literalmente fazer mágica porque a sensação é como se estivesse flutuando e o corpo fica em tanto ecstase que dor, fome, calor, frio são esquecidos e é uma das melhores sensações do mundo, por isso digo: “A Disney não é somente para crianças!!!”. Adultos, por favor tenham essa experiência!!! 
