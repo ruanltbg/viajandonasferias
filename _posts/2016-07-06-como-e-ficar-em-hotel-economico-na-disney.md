@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Como é ficar em hotel econômica da Disney"
+title:  "Como é ficar em hotel econômico da Disney"
 date:   2016-07-06 16:08:31 +0000
 categories: melhores-destinos
-description: Veja como é se hospedar no hotel All Star Music Resorte, hotel da Disney na categoria econômica.
+description: Veja como é se hospedar no hotel All Star Music Resort, hotel da Disney na categoria econômica.
 thumb: /imagens/post7/capa.jpg
 ---
 
