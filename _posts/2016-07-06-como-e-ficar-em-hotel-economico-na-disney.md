@@ -27,36 +27,21 @@ Como o próprio nome diz, o Disney’s All- Star Movies Resort tem a temática d
 
 **Recepção**
 
-
 A recepção é gigantesca que fica no prédio principal chamado Cinema Hall, sim tem cineminha lá é claro com os filmes da própria. Além do cinema, nesse prédio fica a loja com os diversos produtos da Disney, mas com alguns itens exclusivos que acompanham a temática do hotel. A praça de alimentação e a sala de jogos também ficam no prédio principal, onde são pagos à parte, ou seja não estão incluídos na sua diária a não ser que você tenha comprado um programa de alimentação junto com sua estadia.
 
+{% include image.html url="/imagens/post7/Cinema.jpg" description="Fonte: Divulgação." %}
 
-Cinema.jpg
-Fonte: Divulgação
-
-
-Cinema1.jpg
-Fonte: Divulgação. Logo na entrada do prédio principal, bem em frente dos guiches da recepção, cineminha para as crianças, mas adulto também pode.
-
-
-
+{% include image.html url="/imagens/post7/Cinema1.jpg" description="Fonte: Divulgação. Logo na entrada do prédio principal, bem em frente dos guiches da recepção cineminha para as crianças, mas adulto também pode." %}
 
 **Recreação**
 
-
 Já quando chega no hotel tem o cineminha com filmes da Disney em frente a recepção, então para os papais que chegam com suas crianças enquanto fazem o check-in, os pequenos podem assistir o filminho e ainda no raio de visão dos pais.
-
 
 Duas piscinas, uma com a decoração do Mickey e outra decorada com o filme The Mighty Ducks, ambas tinham salva vidas e eram protegidas com cercas altas, o que achei bem legal no quesito segurança. Haviam atividades recreativas na piscina durante o dia pois na hora do check-in recebemos o cronograma de atividades, mas não conseguimos participar de nenhuma pois durante todos os dias estávamos nos parques.
 
+{% include image.html url="/imagens/post7/piscina1.jpg" description="Fonte: Divulgação. Piscina na área central do resort. A decoração é do show Fantasmic que é exibido no parque Hollywood Studios." %}
 
-piscina1.jpg
-Fonte: Divulgação. Piscina na área central do resort. A decoração é do show Fantastic que é exibido no parque Hollywood Studios.
-
-
-piscina.jpg
-Ficamos em um quarto em frente a esta piscina, mas não tivemos problemas com barulho, até porque também essa piscina era pouco usada e normalmente não tinha muita gente nessa piscina.
-
+{% include image.html url="/imagens/post7/piscina.jpg" description="Ficamos em um quarto em frente a esta piscina, mas infelizmente não conseguimos usá-la pois normalmente chegávamos tarde dos parques." %}
 
 No prédio principal estavam os jogo de fliperama, com uma variedade grande de jogos, jogos de dança,velocidade, tiros, enfim o que não falta é jogo, porém para utilizar as máquinas é necessário o pagamento a parte da diária, onde se faz a compra do cartão na recepção e cada máquina tem um valor diferente.
 
@@ -178,6 +163,7 @@ Os blocos de quartos tinham máquinas com petiscos e refrigerantes além de uma 
 
 externo2.jpg
 
+**Magic Hours**
 
 Esse é o hotel que posso dizer que é BBB - Bom, Bonito e Barato, nossa estadia foi maravilhosa, uma experiencia incrível que recomendo para todos, estando lá você percebe que tudo que tem o nome Disney está atrelado à qualidade e excelência em serviço.
 
