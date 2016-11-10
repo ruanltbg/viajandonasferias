@@ -13,11 +13,11 @@ Dia 31 de outubro deste ano, o governo Canadense anunciou sua intenção de auto
 **Requisitos**
 
 
-- Ser titular de visto de residente temporário do Canadá nos últimos 10 anos, ou seja, se você já teve algum visto do Canadá nos últimos 10 anos, seja visto de turismo de uma ou múltiplas entradas, a estudo, a negócio ou a trabalho.
+-      Ser titular de visto de residente temporário do Canadá nos últimos 10 anos, ou seja, se você já teve algum visto do Canadá nos últimos 10 anos, seja visto de turismo de uma ou múltiplas entradas, a estudo, a negócio ou a trabalho.
 
 {% include image.html url="http://www.viajandonasferias.com.br/imagens/post8/vistocanada.jpg" description="Este é o visto Canadense, caso você já tenha no seu passaporte, poderá entrar no Canadá mesmo o visto estando vencido." %}
 
-- Possuir um visto válido de não-imigrante dos Estados Unidos, ou seja, se você tem visto americano, seja ele de turismo, trabalho, estudo ou negócio.
+-      Possuir um visto válido de não-imigrante dos Estados Unidos, ou seja, se você tem visto americano, seja ele de turismo, trabalho, estudo ou negócio.
 
 {% include image.html url="http://www.viajandonasferias.com.br/imagens/post8/vistoamericano.jpg" description="Este é um exemplo do visto Americano, que além de abrir as portas para a terra do tio Sam também poderá abrir as portas para o Canadá, mas nesse caso o visto precisa estar VÁLIDO" %}
 
