@@ -3,8 +3,8 @@ layout: post
 title:  "Como é ficar em hotel econômico da Disney"
 date:   2016-07-06 16:08:31 +0000
 categories: melhores-destinos
-description: Veja como é se hospedar no hotel All Star Movies Resort, hotel da Disney na categoria econômica.
-thumb: /imagens/post7/entradaprincipal.jpg
+description: Brasileiros poderão visitar o Canadá sem visto à partir de 2017. Veja se você poderá se benefeciar nas possíveis novas regras.
+thumb: /imagens/post8/novovistocanda.jpg
 ---
 
 Dia 31 de outubro deste ano, o governo Canadense anunciou sua intenção de autorizar os brasileiros a entrarem no país sem visto válido para turismo. Mas essa autorização não seria para todos e teria alguns requisitos para ser beneficiado.
