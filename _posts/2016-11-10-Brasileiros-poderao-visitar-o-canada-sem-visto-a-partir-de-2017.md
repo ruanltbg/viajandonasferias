@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Visitar o Canadá sem precisar de visto? Talvez seja possível em 2017 "
-date:   2016-07-06 16:08:31 +0000
+date:   2016-11-10 16:08:31 +0000
 categories: melhores-destinos
 description: Brasileiros poderão visitar o Canadá sem visto à partir de 2017. Veja se você poderá se benefeciar nas possíveis novas regras.
 thumb: /imagens/post8/novovistocanada.jpg
