@@ -2,7 +2,7 @@
 layout: post
 title:  "Visitar o Canadá sem precisar de visto? Talvez seja possível em 2017 "
 date:   2016-11-10 16:08:31 +0000
-categories: melhores-destinos
+categories: dicas
 description: Brasileiros poderão visitar o Canadá sem visto à partir de 2017. Veja se você poderá se benefeciar nas possíveis novas regras.
 thumb: /imagens/post8/novovistocanada.jpg
 ---
@@ -39,13 +39,9 @@ Para o preenchimento do formulário é necessário estar com o passaporte em mã
 **Alguns pontos que são importante de lembrar sobre essa notícia é:**
 
 - Essa iniciativa é uma INTENÇÃO do governo canadense e não uma certeza de realmente vai acontecer. É uma possibilidade mas que pode não ocorrer exatamente na data e como está sendo divulgado hoje.
-
 - Se concretizada é uma ótima oportunidade pois facilita para somente quem alcança os requisitos porém não abrange toda a população brasileira.
-
 - O preenchimento do formulário deve ser feito com antecedência a data de chegada ao Canadá, muito importante certificar-se de sair do Brasil com toda a documentação correta e atualizada.
-
 - Existe um custo, e somente pode ser pago em cartão de crédito das bandeiras Visa, MasterCard e American Express, portanto precisará ter um cartão de crédito internacional válido para efetuar o pagamento do formulário eletrônico.
-
 - Neste tipo de formulário, é mais seguro sempre consultar os sites oficiais do Canadá para o preenchimento correto dos dados, e ou consultar uma agência para fazer o intermédio.
 
 Caso você não tenha visto americano ou canadense, infelizmente essa nova regra não iria te beneficiar, porém ainda existe a opção de solicitar um visto. Na minha opinião, qualquer esforço vale a pena quando o assunto é conhecer o Canadá.
