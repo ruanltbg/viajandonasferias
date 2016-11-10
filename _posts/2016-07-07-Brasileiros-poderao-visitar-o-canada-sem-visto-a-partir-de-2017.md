@@ -31,7 +31,14 @@ Essas são exigências que irão substituir o visto Canadense, porém para conse
 O formulário é totalmente eletrônico com o custo de 7 dólares canadense que ao ser finalizado fica atrelado ao passaporte do solicitante e não há necessidade de impressão para apresentação, sua validade é de cinco anos ou até o passaporte expirar, seja qual situação ocorrer primeiro. O vídeo abaixo do governo canadense ilustra os passos que devem ser seguidos:
 
 
-https://www.youtube.com/watch?v=nS2beiBA1Mo&feature=youtu.be
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/nS2beiBA1Mo" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+
+
+https://www.youtube.com/watch?v=nS2beiBA1Mo
 Fonte:Governo do Canadá
 
 
