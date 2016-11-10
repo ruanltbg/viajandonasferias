@@ -49,8 +49,7 @@ Caso você não tenha visto americano ou canadense, infelizmente essa nova regra
 Se você ficou com alguma dúvida, por favor mande para nós e vamos ter o maior prazer em ajudar.
 
 
-### Links úteis: ###
-
+#### Links úteis: ####
 [Notícia no site oficial do Canadá](http://www.canadainternational.gc.ca/brazil-bresil/highlights-faits/2016/2016-11-01-ETA-AVE.aspx?lang=por)
 
 [Formulário eTA](http://www.cic.gc.ca/english/visit/eta-start.asp)
