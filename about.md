@@ -15,7 +15,7 @@ Além de contar como foram nossas experiência contamos as dicas que possívelme
 
 **Olá, Sou a Stefanie**
 
-Sou formada em Secretariado Executivo e devido a profissão sempre precisei organizar compromissos de viagem para os executivos que trabalhava com isso adquiri experiência em efetuar reservas e como programar um roteiro, o que me ajudou quando comecei a organizar viagens pessoais. Amo viajar e amo contar minha histórias de viagem e vou contar tudo que vivi nesse mundão lindo. 
+Sou formada em Secretariado Executivo e devido a profissão sempre precisei organizar compromissos de viagem para os executivos que trabalhava, com isso adquiri experiência em efetuar reservas e como programar um roteiro, o que me ajudou quando comecei a organizar viagens pessoais. Amo viajar e amo contar minhas histórias de viagens e vou contar tudo que vivi nesse mundão lindo. 
 
 **Prazer, Ruan**
 
