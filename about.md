@@ -19,7 +19,7 @@ Sou formada em Secretariado Executivo e devido a profissão sempre precisei orga
 
 **Prazer, Ruan**
 
- Sou analista de sistema e sempre escolho uma viaja para comemorar algo, seja a vida, , meu aniversário ou da esposa, aniversário de casamento, dia dos namorados, Natal, Ana Novo, é sempre bom comemorar e porque não em um lugar que nunca estive. Prometi mostrar o mundo para minha esposa e estou cumprindo e você pode acompanhar essa jornada, vem junto!
+ Sou analista de sistema e sempre escolho uma viagem para comemorar algo, seja a vida, meu aniversário ou da esposa, aniversário de casamento, dia dos namorados, Natal, Ano Novo, é sempre bom comemorar e porque não em um lugar que nunca estive. Prometi mostrar o mundo para minha esposa e estou cumprindo e você pode acompanhar essa jornada, vem junto!
 
 ### Quer contribuir, elogiar, reclamar, sugerir ou participar? ###
 
