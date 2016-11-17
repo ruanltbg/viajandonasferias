@@ -2,7 +2,7 @@
 layout: post
 title:  "Aproveitando 7 dias em Cancun-Parte 2"
 date:   2016-07-05 16:08:31 +0000
-categories: roteiros de viagem
+categories: Roteiros-de-viagem
 description: O que há na região do Hotel Krystal Cancun. Como são os passeios no Xcaret e Jungle Tour.
 thumb: /imagens/post6/capa.jpg
 ---
