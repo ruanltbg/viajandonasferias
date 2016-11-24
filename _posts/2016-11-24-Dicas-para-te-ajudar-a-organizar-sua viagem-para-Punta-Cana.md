@@ -25,11 +25,13 @@ Punta Cana tem muitos hotéis e resorts, com opções para todos os gostos e bol
 
 A Praia de Bávaro tem muitas opções de resorts 3 e 5 estrelas, com opções all inclusive ou não, com SPA ou sem, serviços de transfer e outros pontos que são fatores determinantes no preço final e aí fica a critério de qual hotel atende melhor o perfil da sua viagem e que esteja dentro do orçamento.
 
-- Transporte: Não vi necessidade de alugar carro em Punta Cana, pois todos os passeios que vimos tem transporte incluído do hotel até o local, e inclusive shoppings da região possuem serviço de transfer gratuito (é opcional dar uma gorjetinha para o motorista).
+**Transporte** 
+
+Não vi necessidade de alugar carro em Punta Cana, pois todos os passeios que vimos tem transporte incluído do hotel até o local, e inclusive shoppings da região possuem serviço de transfer gratuito (é opcional dar uma gorjetinha para o motorista).
 
 {% include image.html url="/imagens/post9/transporte.jpg" description="Ônibus que nos levou do hotel aos passeios." %}
 
-{% include image.html url="/imagens/post9/transporte1.jpg" description="Fonte: Divulgação. Onibus que passam nos hotéis e levam até os shopings Plaza San Juan e Palma Real, quando estiver no seu hotel confirme na recepção se eles tem a relação dos horários de paradas  ou se não houver é possível reservar pelos sites dos próprios shoppings sem custo nenhum." %}
+{% include image.html url="/imagens/post9/transporte1.jpg" description="Fonte: Divulgação. Ônibus que passam nos hotéis e levam até os shopings Plaza San Juan e Palma Real, quando estiver no seu hotel confirme na recepção se eles tem a relação dos horários de paradas  ou se não houver é possível reservar pelos sites dos próprios shoppings sem custo nenhum." %}
 
 **Moeda** 
 
