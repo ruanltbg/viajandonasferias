@@ -36,7 +36,7 @@ O formulário é totalmente eletrônico com o custo de 7 dólares canadense que 
 
 Para o preenchimento do formulário é necessário estar com o passaporte em mãos e um cartão de crédito válido e nada mais, mas que ainda assim é possível que seja solicitado documentação complementar para comprovar os dados enviados.
 
-**Alguns pontos que são importante de lembrar sobre essa notícia é:**
+**Alguns pontos que são importante de lembrar sobre essa notícia são:**
 
 - Essa iniciativa é uma INTENÇÃO do governo canadense e não uma certeza de realmente vai acontecer. É uma possibilidade mas que pode não ocorrer exatamente na data e como está sendo divulgado hoje.
 - Se concretizada é uma ótima oportunidade pois facilita para somente quem alcança os requisitos porém não abrange toda a população brasileira.
