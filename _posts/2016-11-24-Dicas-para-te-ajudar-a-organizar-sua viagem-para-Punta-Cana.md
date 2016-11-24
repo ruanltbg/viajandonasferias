@@ -11,9 +11,10 @@ Hoje nossa postagem será sobre dicas de pontos importantes na hora de organizar
 
 
 - Passagens aéreas: Ficar ligado em promoções de passagens o hoje em dia é muito prático e rápido, existem vários sites que alertam sobre promoções das cia aéreas, então é só ficar atento e inscrever-se nesses sites para saber das promoções disponíveis e conseguir valores que cabem no bolso. Punta cana costuma ter muita promoção boa, com preços bem competitivos, claro que em épocas de grande procura como dezembro, janeiro é um pouco mais difícil, mas se você se programar bem vai conseguir preços ótimos.
-	As companhias áreas que vão para Punta Cana que normalmente oferecem valores mais baixos, são a [Copa Ailines](https://www.copaair.com/pt/web/br) e a [Avianca](www.avianca.com.br), então vale a pena também consultar os sites dessas companhias aéreas para conseguir melhores preços. O site [Melhores Destinos](www.melhoresdestinos.com.br) também é uma ótima fonte de pesquisa, eles sempre divulgam promoções de companhias aéreas e já nos ajudaram muito a encontrar pechinchas em valores de vôos inclusive o de Punta Cana.
 
-- Hotel - Localização: Punta Cana tem muitos hotéis e resorts, com opções para todos os gostos e bolsos, porém fique atento quanto a região do hotel, pois existem praias que tem muitas algas ou então muitas ondas, o que dificulta aquele banho de mar, no mapa abaixo está a Praia de Bávaro, que é uma das mais bonitas e mais procuradas pelos turistas, porque realmente a água é deslumbrante, tem um pouco de onda, mas nada que comprometa a diversão.
+As companhias áreas que vão para Punta Cana que normalmente oferecem valores mais baixos, são a [Copa Ailines](https://www.copaair.com/pt/web/br) e a [Avianca](www.avianca.com.br), então vale a pena também consultar os sites dessas companhias aéreas para conseguir melhores preços. O site [Melhores Destinos](www.melhoresdestinos.com.br) também é uma ótima fonte de pesquisa, eles sempre divulgam promoções de companhias aéreas e já nos ajudaram muito a encontrar pechinchas em valores de vôos inclusive o de Punta Cana.
+
+- Hotel (Localização): Punta Cana tem muitos hotéis e resorts, com opções para todos os gostos e bolsos, porém fique atento quanto a região do hotel, pois existem praias que tem muitas algas ou então muitas ondas, o que dificulta aquele banho de mar, no mapa abaixo está a Praia de Bávaro, que é uma das mais bonitas e mais procuradas pelos turistas, porque realmente a água é deslumbrante, tem um pouco de onda, mas nada que comprometa a diversão.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d30077.59399269053!2d-68.4328275!3d18.6860277!3m2!1i1024!2i768!4f13.1!5e1!3m2!1spt-BR!2sbr!4v1480000294913" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
@@ -27,7 +28,8 @@ A Praia de Bávaro tem muitas opções de resorts 3 e 5 estrelas, com opções a
 {% include image.html url="/imagens/post9/transporte1.jpg" description="Fonte: Divulgação. Onibus que passam nos hotéis e levam até os shopings Plaza San Juan e Palma Real, quando estiver no seu hotel confirme na recepção se eles tem a relação dos horários de paradas  ou se não houver é possível reservar pelos sites dos próprios shoppings sem custo nenhum." %}
 
 - Moeda: Leve dólar americano, existe a moeda do país que é o peso dominicano mas a maioria das lojas já colocam os preços em dólar, os passeios também são tabelados pelo dólar então para facilitar o negócio é melhor levar doletas americanas.
-	O hotel em que ficamos havia uma guichê de câmbio, mas essa é aquela comodidade que custa caro pois o valor cobrado é bem maior ao que você pagaria em uma agência de câmbio aqui no Brasil, então para conseguir preços justos, aconselho a comprar os dólares aqui no Brasil mesmo, pois fazendo uma pesquisa dos passeios que pretende fazer e dos itens que precisa comprar é possível se organizar para levar dólar suficiente para suprir tudo o que pretende fazer lá.
+
+O hotel em que ficamos havia uma guichê de câmbio, mas essa é aquela comodidade que custa caro pois o valor cobrado é bem maior ao que você pagaria em uma agência de câmbio aqui no Brasil, então para conseguir preços justos, aconselho a comprar os dólares aqui no Brasil mesmo, pois fazendo uma pesquisa dos passeios que pretende fazer e dos itens que precisa comprar é possível se organizar para levar dólar suficiente para suprir tudo o que pretende fazer lá.
 	
 - Passeios: Existem infinitas opções de passeios, e você pode reservar diretamente no hotel, porém é legal olhar na internet antes quais são os passeios que mais agrada, pois com tantas opções e sem ter algo em mente fica difícil escolher e fácil de ultrapassar o orçamento.
 Os passeios que fizemos foi com a [Dolphin Explorer](http://dolphinexplorer.com/), empresa super séria e muito comprometida além de ter preços e promoções ótimas, valeu muito a pena fazer os passeios com eles e indico com certeza.
@@ -40,7 +42,7 @@ Os passeios que fizemos foi com a [Dolphin Explorer](http://dolphinexplorer.com/
 
 Nós fomos em dois shoppings de lá, o Plaza San Juan Shopping Center e o Palma Real Shopping, os dois shopping são bem diferentes, mas que valem a pena tirar um dia ou dois para visitá-los, pois além de conhecer um pouco a cidade é possível experimentar uma comidinha dominicana, pois ambos possuem praça de alimentação. Outro fator legal é que ambos os shopings possuem mercado que tem de tudo um pouco, desde comida até lembrancinhas.
 
-[**Shopping Plaza San Juan **](http://www.sanjuanshoppingcenter.com/)
+[**Shopping Plaza San Juan**](http://www.sanjuanshoppingcenter.com/)
 
 O Plaza San Juan é mais simples, mais popular, com lojas outlets que juntam várias marcas em uma loja só  e é possível encontrar preços mais baixos.
 
@@ -52,7 +54,7 @@ O Plaza San Juan é mais simples, mais popular, com lojas outlets que juntam vá
 
 {% include image.html url="/imagens/post9/shopingsanjuan2.jpg" description="Fonte: Trip Advisor. Essa loja é um exemplo da maioria das lojas no San Juan, reúnem várias marcas famosas de coleções anteriores e com isso os preços são mais baixos se comparados aos preços das lojas no Palma Real." %}
 
-[**Shopping Palma Real **](http://www.palmarealshopping.com/)
+[**Shopping Palma Real**](http://www.palmarealshopping.com/)
 
 Palma Real é bem mais sofisticado, as lojas são no estilo Boutique, com lojas das marcas Swarovski, Dolce & Gabbana, Prada, Michael Kors com peças das coleções atuais e por consequência os preços são mais altos.
 
@@ -75,11 +77,19 @@ Beijinhos e até a próxima!!!!
 
 ##Links úteis##
 [15 dias em Punta Cana - Parte 1](http://www.viajandonasferias.com.br/roteiros-de-viagem/15-dias-em-punta-cana-parte-1)
+
 [15 dias em Punta Cana - Parte 2](http://www.viajandonasferias.com.br/roteiros-de-viagem/15-dias-em-punta-cana-parte-2)
+
 [15 dias em Punta Cana - Parte 3 ](http://www.viajandonasferias.com.br/roteiros-de-viagem/15-dias-em-punta-cana-parte-3)
+
 [Melhores Destinos](http://www.melhoresdestinos.com.br/)
+
 [Copa Ailines](https://www.copaair.com/pt/web/br)
+
 [Avianca](www.avianca.com.br)
+
 [Dolphin Explorer](http://dolphinexplorer.com/)
+
 [Shopping Plaza San Juan](http://www.sanjuanshoppingcenter.com/)
+
 [Shopping Palma Real](http://www.palmarealshopping.com/)
