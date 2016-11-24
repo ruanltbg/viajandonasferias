@@ -22,10 +22,9 @@ A Praia de Bávaro tem muitas opções de resorts 3 e 5 estrelas, com opções a
 
 - Transporte: Não vi necessidade de alugar carro em Punta Cana, pois todos os passeios que vimos tem transporte incluído do hotel até o local, e inclusive shoppings da região possuem serviço de transfer gratuito (é opcional dar uma gorjetinha para o motorista).
 
-Transporte.jpg - Ônibus que nos levou do hotel aos passeios.
+{% include image.html url="/imagens/post9/transporte.jpg" description="Ônibus que nos levou do hotel aos passeios." %}
 
-
-Transporte1.jpg - Fonte: Divulgação. Onibus que passam nos hotéis e levam até os shopings Plaza San Juan e Palma Real, quando estiver no seu hotel confirme na recepção se eles tem a relação dos horários de paradas  ou se não houver é possível reservar pelos sites dos próprios shoppings sem custo nenhum.
+{% include image.html url="/imagens/post9/transporte1.jpg" description="Fonte: Divulgação. Onibus que passam nos hotéis e levam até os shopings Plaza San Juan e Palma Real, quando estiver no seu hotel confirme na recepção se eles tem a relação dos horários de paradas  ou se não houver é possível reservar pelos sites dos próprios shoppings sem custo nenhum." %}
 
 - Moeda: Leve dólar americano, existe a moeda do país que é o peso dominicano mas a maioria das lojas já colocam os preços em dólar, os passeios também são tabelados pelo dólar então para facilitar o negócio é melhor levar doletas americanas.
 	O hotel em que ficamos havia uma guichê de câmbio, mas essa é aquela comodidade que custa caro pois o valor cobrado é bem maior ao que você pagaria em uma agência de câmbio aqui no Brasil, então para conseguir preços justos, aconselho a comprar os dólares aqui no Brasil mesmo, pois fazendo uma pesquisa dos passeios que pretende fazer e dos itens que precisa comprar é possível se organizar para levar dólar suficiente para suprir tudo o que pretende fazer lá.
@@ -33,32 +32,41 @@ Transporte1.jpg - Fonte: Divulgação. Onibus que passam nos hotéis e levam at�
 - Passeios: Existem infinitas opções de passeios, e você pode reservar diretamente no hotel, porém é legal olhar na internet antes quais são os passeios que mais agrada, pois com tantas opções e sem ter algo em mente fica difícil escolher e fácil de ultrapassar o orçamento.
 Os passeios que fizemos foi com a [Dolphin Explorer](http://dolphinexplorer.com/), empresa super séria e muito comprometida além de ter preços e promoções ótimas, valeu muito a pena fazer os passeios com eles e indico com certeza.
 
+{% include image.html url="/imagens/post9/dolphinexplorer1.jpg" description="Passeio Funtastic, onde você fica em um deck no mar e  é possível interagir com golfinhos; eles cantam, dançam,  e é possível passar a mão neles. O único porém desse passeio é que não pode tirar foto, as únicas fotos são de um fotógrafo oficial do parque que ficam disponíveis no final do passeio por US$ 50 (cerca de 10 fotos - valor de junho/2013)." %}
 
-Dolphinexplorer1.jpg - Passeio Funtastic, onde você fica em um deck no mar e  é possível interagir com golfinhos; eles cantam, dançam,  e é possível passar a mão neles. O único porém desse passeio é que não pode tirar foto, as únicas fotos são de um fotógrafo oficial do parque que ficam disponíveis no final do passeio por US$ 50 (cerca de 10 fotos - valor de junho/2013). 
-
-Dolphinexplorer.jpg - Este é outro passeio da Dolphin Explorer, vamos de barco até um região com corais e águas cristalinas para fazer um mergulho, durante o passeio teve direito até uma apresentação de dança dominicana e lanchinho. Muito bom. Super recomendo!
+{% include image.html url="/imagens/post9/dolphinexplorer.jpg" description="Este é outro passeio da Dolphin Explorer, vamos de barco até um região com corais e águas cristalinas para fazer um mergulho, durante o passeio teve direito até uma apresentação de dança dominicana e lanchinho. Muito bom. Super recomendo!" %}
 
 - Compras: Punta Cana não é o lugar exatamente pra se fazer compras, mas não porque não tem opções, na verdade tem muitas opções de marcas famosas como GAP, Victoria Secret`s, Hollister, etc., mas como também tem marcas dominicanas, mexicanas e até mesmo brasileiras (comprei um biquíni brasileiro lá lindíssimo). Os preços é que fazem com que as compras não se tornem tão interessantes, mas percebi que lá é o lugar de se pechinchar, eles fazem qualquer negócio para vender, então a dica na hora de fazer suas compras, seja de lembrancinhas ou para você mesmo é, PECHINCHE!!!
+
 Nós fomos em dois shoppings de lá, o Plaza San Juan Shopping Center e o Palma Real Shopping, os dois shopping são bem diferentes, mas que valem a pena tirar um dia ou dois para visitá-los, pois além de conhecer um pouco a cidade é possível experimentar uma comidinha dominicana, pois ambos possuem praça de alimentação. Outro fator legal é que ambos os shopings possuem mercado que tem de tudo um pouco, desde comida até lembrancinhas.
 
 [**Shopping Plaza San Juan **](http://www.sanjuanshoppingcenter.com/)
 
 O Plaza San Juan é mais simples, mais popular, com lojas outlets que juntam várias marcas em uma loja só  e é possível encontrar preços mais baixos.
-Shopingsanjuan.jpg - Fonte: Trip Advisor. Entrada do Shopping.
-Shopingsanjuan3.jpg - Fonte: Dilgação
-Shopingsanjuan1.jpg - Fonte: Trip Advisor. Ele lembra um pouco nossos shopings aqui do Brasil, simples e não muito grande é possível ver todas as lojas em uma tarde.
-Shopingsanjuan2.jpg - Fonte: Trip Advisor. Essa loja é um exemplo da maioria das lojas no San Juan, reúnem várias marcas famosas de coleções anteriores e com isso os preços são mais baixos se comparados aos preços das lojas no Palma Real.
 
+{% include image.html url="/imagens/post9/shopingsanjuan.jpg" description="Fonte: Trip Advisor. Entrada do Shopping." %}
+
+{% include image.html url="/imagens/post9/shopingsanjuan3.jpg" description="Fonte: Divulgação" %}
+
+{% include image.html url="/imagens/post9/shopingsanjuan1.jpg" description="Fonte: Trip Advisor. Ele lembra um pouco nossos shopings aqui do Brasil, simples e não muito grande é possível ver todas as lojas em uma tarde." %}
+
+{% include image.html url="/imagens/post9/shopingsanjuan2.jpg" description="Fonte: Trip Advisor. Essa loja é um exemplo da maioria das lojas no San Juan, reúnem várias marcas famosas de coleções anteriores e com isso os preços são mais baixos se comparados aos preços das lojas no Palma Real." %}
 
 [**Shopping Palma Real **](http://www.palmarealshopping.com/)
 
-Palma Real é bem mais sofisticado, as lojas são no estilo Boutique, com lojas das marcas Swarovski, Dolce & Gabbana, Prada, Michael Kors com peças das coleções atuais e por consequência os preços são mais altos. 
-Shopingpalmareal4.jpg - Fonte: Trip Advisor. Parte externa do shopping. É por essa entrada que o ônibus que nos buscou no hotel, nos deixou e depois na volta também nesse mesmo lugar, sem custo nenhum.
-Shopingpalmareal.jpg - Fonte: Trip Advisor. Parte interna do Shopping.
-Shopingpalmareal2.jpg - Fonte: Trip Advisor. O Shopping Palma Real é muito bem decorado e amplo.
-Shopingpalmareal1.jpg - Fonte: Trip Advisor
-Shopingpalmareal3 - Fonte: Trip Advidor. Apenas algumas partes são cobertas, a maioria das lojas ficam em espaço aberto.
-Shopingpalmareal5.jpg - Fonte: Puntacana Marketing. Este o mercado que fica dentro do Shopping Palma Real, parada obrigatória para fazer comprinhas das coisas básicas pois os preços são ótimos.
+Palma Real é bem mais sofisticado, as lojas são no estilo Boutique, com lojas das marcas Swarovski, Dolce & Gabbana, Prada, Michael Kors com peças das coleções atuais e por consequência os preços são mais altos.
+
+{% include image.html url="/imagens/post9/shopingpalmareal4.jpg" description= Fonte: Trip Advisor. Parte externa do shopping. É por essa entrada que o ônibus que nos buscou no hotel, nos deixou e depois na volta também nesse mesmo lugar, sem custo nenhum." %}
+
+{% include image.html url="/imagens/post9/shopingpalmareal.jpg" description= Fonte: Trip Advisor. Parte interna do Shopping." %}
+
+{% include image.html url="/imagens/post9/shopingpalmareal2.jpg" description= Fonte: Trip Advisor. O Shopping Palma Real é muito bem decorado e amplo." %}
+
+{% include image.html url="/imagens/post9/shopingpalmareal1.jpg" description= Fonte: Trip Advidor." %}
+
+{% include image.html url="/imagens/post9/shopingpalmareal3.jpg" description= Fonte: Trip Advidor. Apenas algumas partes são cobertas, a maioria das lojas ficam em espaço aberto." %}
+
+{% include image.html url="/imagens/post9/shopingpalmareal5.jpg" description= Fonte: Puntacana Marketing. Este o mercado que fica dentro do Shopping Palma Real, parada obrigatória para fazer comprinhas das coisas básicas pois os preços são ótimos." %}
 
 Espero que essas dicas tenham ajudado, e caso tenha alguma dúvida ficarei muito satisfeita em ajudar, ou então tenha ido para Punta Cana e queira compartilhar alguma dica é muito bem vinda!!
 
