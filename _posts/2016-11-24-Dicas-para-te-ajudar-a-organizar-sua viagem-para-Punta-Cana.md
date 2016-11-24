@@ -50,11 +50,11 @@ Os passeios que fizemos foi com a [Dolphin Explorer](http://dolphinexplorer.com/
 
 **Compras**
 
-Punta Cana não é o lugar exatamente pra se fazer compras, mas não porque não tem opções, na verdade tem muitas opções de marcas famosas como GAP, Victoria Secret's, Hollister, etc., mas como também tem marcas dominicanas, mexicanas e até mesmo brasileiras (comprei um biquíni brasileiro lá lindíssimo). Os preços é que fazem com que as compras não se tornem tão interessantes, mas percebi que lá é o lugar de se pechinchar, eles fazem qualquer negócio para vender, então a dica na hora de fazer suas compras, seja de lembrancinhas ou para você mesmo é, PECHINCHE!!!
+Punta Cana não é o lugar exatamente pra se fazer compras, mas não porque não tem opções, na verdade tem muitas opções de marcas famosas como GAP, Victoria Secrets, Hollister, etc., mas como também tem marcas dominicanas, mexicanas e até mesmo brasileiras (comprei um biquíni brasileiro lá lindíssimo). Os preços é que fazem com que as compras não se tornem tão interessantes, mas percebi que lá é o lugar de se pechinchar, eles fazem qualquer negócio para vender, então a dica na hora de fazer suas compras, seja de lembrancinhas ou para você mesmo é, PECHINCHE!!!
 
 Nós fomos em dois shoppings de lá, o Plaza San Juan Shopping Center e o Palma Real Shopping, os dois shopping são bem diferentes, mas que valem a pena tirar um dia ou dois para visitá-los, pois além de conhecer um pouco a cidade é possível experimentar uma comidinha dominicana, pois ambos possuem praça de alimentação. Outro fator legal é que ambos os shopings possuem mercado que tem de tudo um pouco, desde comida até lembrancinhas.
 
-[**Shopping Plaza San Juan**](http://www.sanjuanshoppingcenter.com/)
+[Shopping Plaza San Juan](http://www.sanjuanshoppingcenter.com/)
 
 O Plaza San Juan é mais simples, mais popular, com lojas outlets que juntam várias marcas em uma loja só  e é possível encontrar preços mais baixos.
 
