@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Visitar o Canadá sem precisar de visto? Talvez seja possível em 2017 "
-date:   2016-11-10 16:08:31 +0000
+title:  "Dicas importantespara aproveitar alguns dias em Punta Cana."
+date:   2016-11-24 16:08:31 +0000
 categories: dicas
-description: Brasileiros poderão visitar o Canadá sem visto à partir de 2017. Veja se você poderá se benefeciar nas possíveis novas regras.
-thumb: /imagens/post8/novovistocanada.jpg
+description: Veja o que você precisa pensar antes de ir para Punta e sugestões do que fazer quando chegar lá.
+thumb: /imagens/post9/capa.jpg
 ---
 
 Hoje nossa postagem será sobre dicas de pontos importantes na hora de organizar uma viagem para Punta Cana. Já publicamos  aqui como foi a nossa experiência nesse paraíso - se você ainda não leu os links estão no final dessa postagem - e agora queremos passar para vocês o que se soubéssemos teria nos facilitado muito a vida quando estávamos lá e o que levamos em consideração aqui e nos ajudou muito lá.
