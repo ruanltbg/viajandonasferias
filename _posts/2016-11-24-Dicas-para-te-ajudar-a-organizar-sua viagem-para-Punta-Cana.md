@@ -40,39 +40,7 @@ Os passeios que fizemos foi com a [Dolphin Explorer](http://dolphinexplorer.com/
 
 - Compras: Punta Cana não é o lugar exatamente pra se fazer compras, mas não porque não tem opções, na verdade tem muitas opções de marcas famosas como GAP, Victoria Secret`s, Hollister, etc., mas como também tem marcas dominicanas, mexicanas e até mesmo brasileiras (comprei um biquíni brasileiro lá lindíssimo). Os preços é que fazem com que as compras não se tornem tão interessantes, mas percebi que lá é o lugar de se pechinchar, eles fazem qualquer negócio para vender, então a dica na hora de fazer suas compras, seja de lembrancinhas ou para você mesmo é, PECHINCHE!!!
 
-Nós fomos em dois shoppings de lá, o Plaza San Juan Shopping Center e o Palma Real Shopping, os dois shopping são bem diferentes, mas que valem a pena tirar um dia ou dois para visitá-los, pois além de conhecer um pouco a cidade é possível experimentar uma comidinha dominicana, pois ambos possuem praça de alimentação. Outro fator legal é que ambos os shopings possuem mercado que tem de tudo um pouco, desde comida até lembrancinhas.
 
-[**Shopping Plaza San Juan**](http://www.sanjuanshoppingcenter.com/)
-
-O Plaza San Juan é mais simples, mais popular, com lojas outlets que juntam várias marcas em uma loja só  e é possível encontrar preços mais baixos.
-
-{% include image.html url="/imagens/post9/shopingsanjuan.jpg" description="Fonte: Trip Advisor. Entrada do Shopping." %}
-
-{% include image.html url="/imagens/post9/shopingsanjuan3.jpg" description="Fonte: Divulgação" %}
-
-{% include image.html url="/imagens/post9/shopingsanjuan1.jpg" description="Fonte: Trip Advisor. Ele lembra um pouco nossos shopings aqui do Brasil, simples e não muito grande é possível ver todas as lojas em uma tarde." %}
-
-{% include image.html url="/imagens/post9/shopingsanjuan2.jpg" description="Fonte: Trip Advisor. Essa loja é um exemplo da maioria das lojas no San Juan, reúnem várias marcas famosas de coleções anteriores e com isso os preços são mais baixos se comparados aos preços das lojas no Palma Real." %}
-
-[**Shopping Palma Real**](http://www.palmarealshopping.com/)
-
-Palma Real é bem mais sofisticado, as lojas são no estilo Boutique, com lojas das marcas Swarovski, Dolce & Gabbana, Prada, Michael Kors com peças das coleções atuais e por consequência os preços são mais altos.
-
-{% include image.html url="/imagens/post9/shopingpalmareal4.jpg" description= Fonte: Trip Advisor. Parte externa do shopping. É por essa entrada que o ônibus que nos buscou no hotel, nos deixou e depois na volta também nesse mesmo lugar, sem custo nenhum." %}
-
-{% include image.html url="/imagens/post9/shopingpalmareal.jpg" description= Fonte: Trip Advisor. Parte interna do Shopping." %}
-
-{% include image.html url="/imagens/post9/shopingpalmareal2.jpg" description= Fonte: Trip Advisor. O Shopping Palma Real é muito bem decorado e amplo." %}
-
-{% include image.html url="/imagens/post9/shopingpalmareal1.jpg" description= Fonte: Trip Advidor." %}
-
-{% include image.html url="/imagens/post9/shopingpalmareal3.jpg" description= Fonte: Trip Advidor. Apenas algumas partes são cobertas, a maioria das lojas ficam em espaço aberto." %}
-
-{% include image.html url="/imagens/post9/shopingpalmareal5.jpg" description= Fonte: Puntacana Marketing. Este o mercado que fica dentro do Shopping Palma Real, parada obrigatória para fazer comprinhas das coisas básicas pois os preços são ótimos." %}
-
-Espero que essas dicas tenham ajudado, e caso tenha alguma dúvida ficarei muito satisfeita em ajudar, ou então tenha ido para Punta Cana e queira compartilhar alguma dica é muito bem vinda!!
-
-Beijinhos e até a próxima!!!!
 
 
 ##Links úteis##
