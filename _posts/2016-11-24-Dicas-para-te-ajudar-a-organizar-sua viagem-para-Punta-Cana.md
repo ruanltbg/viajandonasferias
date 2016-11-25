@@ -68,17 +68,17 @@ O Plaza San Juan é mais simples, mais popular, com lojas outlets que juntam vá
 
 Palma Real é bem mais sofisticado, as lojas são no estilo Boutique, com lojas das marcas Swarovski, Dolce & Gabbana, Prada, Michael Kors com peças das coleções atuais e por consequência os preços são mais altos.
 
-{% include image.html url="/imagens/post9/shopingpalmareal4.jpg" description= Fonte: Trip Advisor. Parte externa do shopping. É por essa entrada que o ônibus que nos buscou no hotel, nos deixou e depois na volta também nesse mesmo lugar, sem custo nenhum." %}
+{% include image.html url="/imagens/post9/shopingpalmareal4.jpg" description="Fonte: Trip Advisor. Parte externa do shopping. É por essa entrada que o ônibus que nos buscou no hotel, nos deixou e depois na volta também nesse mesmo lugar, sem custo nenhum." %}
 
-{% include image.html url="/imagens/post9/shopingpalmareal.jpg" description= Fonte: Trip Advisor. Parte interna do Shopping." %}
+{% include image.html url="/imagens/post9/shopingpalmareal.jpg" description="Fonte: Trip Advisor. Parte interna do Shopping." %}
 
-{% include image.html url="/imagens/post9/shopingpalmareal2.jpg" description= Fonte: Trip Advisor. O Shopping Palma Real é muito bem decorado e amplo." %}
+{% include image.html url="/imagens/post9/shopingpalmareal2.jpg" description="Fonte: Trip Advisor. O Shopping Palma Real é muito bem decorado e amplo." %}
 
-{% include image.html url="/imagens/post9/shopingpalmareal1.jpg" description= Fonte: Trip Advidor." %}
+{% include image.html url="/imagens/post9/shopingpalmareal1.jpg" description="Fonte: Trip Advidor." %}
 
-{% include image.html url="/imagens/post9/shopingpalmareal3.jpg" description= Fonte: Trip Advidor. Apenas algumas partes são cobertas, a maioria das lojas ficam em espaço aberto." %}
+{% include image.html url="/imagens/post9/shopingpalmareal3.jpg" description="Fonte: Trip Advidor. Apenas algumas partes são cobertas, a maioria das lojas ficam em espaço aberto." %}
 
-{% include image.html url="/imagens/post9/shopingpalmareal5.jpg" description= Fonte: Puntacana Marketing. Este o mercado que fica dentro do Shopping Palma Real, parada obrigatória para fazer comprinhas das coisas básicas pois os preços são ótimos." %}
+{% include image.html url="/imagens/post9/shopingpalmareal5.jpg" description="Fonte: Puntacana Marketing. Este o mercado que fica dentro do Shopping Palma Real, parada obrigatória para fazer comprinhas das coisas básicas pois os preços são ótimos." %}
 
 Espero que essas dicas tenham ajudado, e caso tenha alguma dúvida ficarei muito satisfeita em ajudar, ou então tenha ido para Punta Cana e queira compartilhar alguma dica é muito bem vinda!!
 
