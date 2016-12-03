@@ -290,6 +290,10 @@
       width: 100%;
       border-radius: 8px;
     }
+    iframe {
+      width: 100%;
+      min-height: 315px;
+    }
 
     &.fit {
       display: block;
@@ -1292,6 +1296,15 @@
   p {
     text-align: justify;
     line-height: 1.8em;
+  }
+  ul {
+    list-style: circle;
+    margin-left: 1em;
+    li {
+      line-height: 1.3em;
+      margin-bottom: 1em;
+      text-align: justify;
+    }
   }
 }
 .latest-post {
