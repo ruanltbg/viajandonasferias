@@ -85,11 +85,12 @@ Espero que essas dicas tenham ajudado, e caso tenha alguma dúvida ficarei muito
 Beijinhos e até a próxima!!!!
 
 
-## Links úteis ##
+### Links úteis
 
 [15 dias em Punta Cana - Parte 1](http://www.viajandonasferias.com.br/roteiros-de-viagem/15-dias-em-punta-cana-parte-1)
+:Veja foi nosso dia-a-dia em Punta Cana
 
-[15 dias em Punta Cana - Parte 2](http://www.viajandonasferias.com.br/roteiros-de-viagem/15-dias-em-punta-cana-parte-2)
 
-[15 dias em Punta Cana - Parte 3 ](http://www.viajandonasferias.com.br/roteiros-de-viagem/15-dias-em-punta-cana-parte-3)
+
+
 
