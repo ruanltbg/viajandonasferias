@@ -1297,13 +1297,15 @@
     text-align: justify;
     line-height: 1.8em;
   }
-  ul {
-    list-style: circle;
-    margin-left: 1em;
-    li {
-      line-height: 1.3em;
-      margin-bottom: 1em;
-      text-align: justify;
+  #content {
+    ul {
+      list-style: circle;
+      margin-left: 1em;
+      li {
+        line-height: 1.3em;
+        margin-bottom: 1em;
+        text-align: justify;
+      }
     }
   }
 }
