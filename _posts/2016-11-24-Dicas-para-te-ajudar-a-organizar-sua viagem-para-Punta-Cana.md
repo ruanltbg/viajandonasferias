@@ -31,7 +31,7 @@ Não vi necessidade de alugar carro em Punta Cana, pois todos os passeios que vi
 
 {% include image.html url="/imagens/post9/transporte.jpg" description="Ônibus que nos levou do hotel aos passeios." %}
 
-{% include image.html url="/imagens/post9/transporte1.jpg" description="Fonte: Divulgação. Ônibus que passam nos hotéis e levam até os shopings Plaza San Juan e Palma Real, quando estiver no seu hotel confirme na recepção se eles tem a relação dos horários de paradas  ou se não houver é possível reservar pelos sites dos próprios shoppings sem custo nenhum." %}
+{% include image.html url="/imagens/post9/transporte1.jpg" description="Fonte: TripAdvisor. Ônibus que passam nos hotéis e levam até os shopings Plaza San Juan e Palma Real, quando estiver no seu hotel confirme na recepção se eles tem a relação dos horários de paradas  ou se não houver é possível reservar pelos sites dos próprios shoppings sem custo nenhum." %}
 
 **Moeda** 
 
@@ -85,7 +85,7 @@ Espero que essas dicas tenham ajudado, e caso tenha alguma dúvida ficarei muito
 Beijinhos e até a próxima!!!!
 
 
-##Links úteis##
+## Links úteis ##
 
 [15 dias em Punta Cana - Parte 1](http://www.viajandonasferias.com.br/roteiros-de-viagem/15-dias-em-punta-cana-parte-1)
 
@@ -93,14 +93,3 @@ Beijinhos e até a próxima!!!!
 
 [15 dias em Punta Cana - Parte 3 ](http://www.viajandonasferias.com.br/roteiros-de-viagem/15-dias-em-punta-cana-parte-3)
 
-[Melhores Destinos](http://www.melhoresdestinos.com.br/)
-
-[Copa Ailines](https://www.copaair.com/pt/web/br)
-
-[Avianca](www.avianca.com.br)
-
-[Dolphin Explorer](http://dolphinexplorer.com/)
-
-[Shopping Plaza San Juan](http://www.sanjuanshoppingcenter.com/)
-
-[Shopping Palma Real](http://www.palmarealshopping.com/)
