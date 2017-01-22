@@ -25,9 +25,13 @@ Para mim, sempre foi um paradigma viajar sozinha, porque achava que jamais conse
 
 Nova Iorque é uma cidade muito fácil de se achar, já que as ruas são por ordem numérica e é possível chegar em qualquer lugar da cidade de metrô. Além disso a cidade é extremamente segura, e quando digo segura é no sentido que o policiamento é super forte e mais que isso o sentimento de segurança é incrível, com a quantidade de turista, gente que não acaba mais andando nas ruas, carrinho de comida, trânsito, tudo funciona perfeitamente, todo mundo se entende e se respeita, uma sintonia difícil de se ver, que até a ajuda a esquecer que está sozinha.
 
+{% include image.html url="/imagens/post_10/topoftherock2.jpg" description="Confesso que fiquei com medo das alturas dos aranha céus de NY, mas fui logo de cara no top of the rock e quando vi essa vista linda o medo foi embora e encarei numa boa, lá de cima dá para ver como a cidade é mais linda ainda do que quando se está na rua. Impossível não se apaixonar por essa cidade!!" %}
+
 **Me senti sozinha??**
 
 Então, acho que a cidade ajudou bastante para que eu não me sentisse nada sozinha, é muito comum ver pessoas sozinhas nos passeios, almoçando, fazendo compras, mas o grande ponto é que não posso negar que faz falta ter com quem compartilhar as sensações, sentimentos e impressões sobre o lugar, a comida, as pessoas, enfim conversar sobre as coisas que estão acontecendo, ter alguém para tirar uma foto sua e com você. Porém essa falta não fez com que a viagem ficasse triste ou chata, foi até um estímulo para que eu buscasse guardar a maior quantidade possível de detalhes e depois contar para a família tudo o que ví e vivi naquele dia. 
+
+{% include image.html url="/imagens/post_10/estatualiberdade.jpg" description="Sempre tinha uma alma caridosa para tirar foto de mim, era só eu começar a fazer selfis que logo aparecia alguém se voluntáriando a tirar uma foto minha. É claro que as vezes tinha aquele troca você tira de mim e eu de você, mas aí é que está a mágia, sabe aquele ditado: Gentileza, gera Gentileza." %}
 
 **Hotel**
 
@@ -39,11 +43,17 @@ O que levei em consideração quando reservei o hotel é que deveria ser próxim
 
 Outro ponto importante é que o hotel teria que ter wi-fi, hoje em dia é difícil os hotéis e hostels não terem, mas é sempre bom ficar atento se está incluído no valor da diária ou se é pago a parte. Se caso o hotel que você reservou não tenha wi-fi não é o fim do mundo, pois a maioria dos shoppings e restaurante tem internet, até o metrô tem acesso grátis então tem solução mas chegar no final do dia contar e o que você fez para a família é muito bom, ajuda a matar a saudade e dá aquele gás para no outro dia passear bastante e contar para eles novamente e repetir esse ciclo forever.
 
+{% include image.html url="/imagens/post_10/times.jpg" description="Nos primeiros dias de passeios, sempre cheguava antes de escurecer no hotel para acordar cedo e aproveitar o dia seguinte, mas reservei pelo menos uma noite para passar na Times Square ver como é o movimento, e percebi que é muito mais movimentado à noite do que durante o dia. Arrumar um lugar para sentar é bem difícil, mas mesmo de pé é bem divertido assistir as figuras que transitam por lá, quase tão doido quando Vegas. " %}
+
 **Informações**
 
 Pesquisei muito pra saber sobre a experiência de mulheres que viajaram sozinha para NYC para saber como elas se sentiram, os lugares que visitaram, o que evitaram, o que deveria me preocupar, então quando cheguei estava bem confiante com os lugares que poderia ir, os horários que poderia transitar tranquila na rua, etc.
 
 Porém mesmo com bastante pesquisa com o roteiro bem programada e organizado, algumas vezes precisei pedir informação principalmente na hora de pegar o metrô, então quando isso aconteceu sempre perguntei para os policiais que todas as vezes foram muito educados e solícitos a dar informações precisas sobre o que estava perguntando.
+
+{% include image.html url="/imagens/post_10/grandcentralstation.jpg" description="Esse é o famoso Grand Central Terminal, aqui é possível comprar passagens de trêm e ônibus. As estações de metrô, trêm e ônibus são muito bem sinalizadas, então é bem fácil de se virar e encontrar a informação que precisa, mas se mesmo assim você é como eu, precisa confirmar com alguém que está no caminho certo sempre tem um policial amigo para te ajudar. " %}
+
+{% include image.html url="/imagens/post_10/tremphila.jpg" description="Esse é o trêm que vai para Philadelfia, peguei ele na Penn Station em NY e levou cerca de 2 horas e meia para chegar lá, muito bom o trajeto e o trêm, na volta estava um pouco cheio, principalmente porque ele passa na estação do aeroporto de Nova Jersey, mas super tranquilo e barato, paguei cerca de 16 dólares cada trecho." %}
 
 **Inglês**
 
