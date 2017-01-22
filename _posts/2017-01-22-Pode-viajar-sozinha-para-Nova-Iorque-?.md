@@ -1,5 +1,5 @@
 
-Clarooo que pode!!! 
+A minha resposta é: Clarooo que pode!!! 
 
 Esse post é dedicado a todas as mulheres que ainda não viajaram sozinhas, é para vocês verem como sim é possível aproveitar e se divertir muito consigo mesma. Bom, para começar esse post vou dizer o porque viajei sozinha, como de costume estávamos ligadinhos nas promoções de viagens e então que apareceu uma “promoção” da American Airlines com preços de passagens quase de graça, praticamente cobrando somente o valor das taxas de aeroporto, meu primeiro pensamento foi, isso é pegadinha, não vai dar certo. Mas conforme fui selecionando os vôos no site e foi passando para a próxima tela, e próxima tela e pagamento efetuado com sucesso quase não acreditei que fosse verdade, mas foi e meus Caros, pasmem mas eu fui para Nova Iorque por 550 reais ida, volta e com taxas .
 
