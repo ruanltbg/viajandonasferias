@@ -35,7 +35,7 @@ Então, acho que a cidade ajudou bastante para que eu não me sentisse nada sozi
 
 {% include image.html url="/imagens/post_10/estatualiberdade.jpg" description="Sempre tinha uma alma solícita para tirar foto de mim, era só eu começar a fazer selfis que logo aparecia alguém se voluntáriando a tirar uma foto minha. É claro que as vezes tinha aquele troca você tira de mim e eu de você, mas aí é que está a mágia, sabe aquele ditado: Gentileza, gera Gentileza. PS.: Romântico esse casal atrás de mim neh??" %}
 
-{% include image.html url="/imagens/post_10/empire.jpg" description="Mas quando não encontrava essas almas gentís no caminho, desenvolvi muito bem minha habilidade de tirar selfis, e consegui fotos boas e mim mesma." %}
+{% include image.html url="/imagens/post_10/topoftherock1.jpg" description="Mas quando não encontrava essas almas gentís no caminho, desenvolvi muito bem minha habilidade de tirar selfis, e consegui fotos boas e mim mesma." %}
 
 
 **Hotel**
