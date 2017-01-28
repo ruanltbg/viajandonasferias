@@ -33,7 +33,7 @@ Nova Iorque é uma cidade muito fácil de se achar, já que as ruas são por ord
 
 Então, acho que a cidade ajudou bastante para que eu não me sentisse nada sozinha, é muito comum ver pessoas sozinhas nos passeios, almoçando, fazendo compras, mas o grande ponto é que não posso negar que faz falta ter com quem compartilhar as sensações, sentimentos e impressões sobre o lugar, a comida, as pessoas, enfim conversar sobre as coisas que estão acontecendo, ter alguém para tirar uma foto sua e com você. Porém essa falta não fez com que a viagem ficasse triste ou chata, foi até um estímulo para que eu buscasse guardar a maior quantidade possível de detalhes e depois contar para a família tudo o que ví e vivi naquele dia. 
 
-{% include image.html url="/imagens/post_10/estatualiberdade.jpg" description="Sempre tinha uma alma solícita para tirar foto de mim, era só eu começar a fazer selfis que logo aparecia alguém se voluntáriando a tirar uma foto minha. É claro que as vezes tinha aquele troca você tira de mim e eu de você, mas aí é que está a mágia, sabe aquele ditado: Gentileza, gera Gentileza." %}
+{% include image.html url="/imagens/post_10/estatualiberdade.jpg" description="Sempre tinha uma alma solícita para tirar foto de mim, era só eu começar a fazer selfis que logo aparecia alguém se voluntáriando a tirar uma foto minha. É claro que as vezes tinha aquele troca você tira de mim e eu de você, mas aí é que está a mágia, sabe aquele ditado: Gentileza, gera Gentileza. PS.: Romântico esse casal atrás de mim neh??" %}
 
 {% include image.html url="/imagens/post_10/empire.jpg" description="Mas quando não encontrava essas almas gentís no caminho, desenvolvi muito bem minha habilidade de tirar selfis, e consegui fotos boas e mim mesma." %}
 
