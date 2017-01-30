@@ -56,9 +56,9 @@ Outro ponto importante é que o hotel teria que ter wi-fi, hoje em dia é difíc
 
 Pesquisei muito pra saber sobre a experiência de mulheres que viajaram sozinha para NYC para saber como elas se sentiram, os lugares que visitaram, o que evitaram, o que deveria me preocupar, então quando cheguei estava bem confiante com os lugares que poderia ir, os horários que poderia transitar tranquila na rua, etc.
 
-Nessas pesquisas vi que algumas pessoas mulheres evitaram ir até os bairros do Brooklin e Bronx, realmente acabei não indo por dois motivos, um foi a falta de tempo e a outra que resolvi acatar as dicas de evitar esses bairros. No  
+Nessas pesquisas vi que algumas pessoas mulheres evitaram ir até os bairros do Brooklin e Bronx, realmente acabei não indo por dois motivos, um foi a falta de tempo e a outra que resolvi acatar as dicas de evitar esses bairros. No Brooklin tinha visto que era meio perigoso de passear por conta de assaltos e roubos, e o Bronx por conta da intolerância à raças, pois o bairro é em sua maioria de negros e que hostlizam pessoas de outras raças. Na minha opinião, quando encontro informações assim, sempre procuro várias fontes para ter mais segurança em que realmente procede, nesses casos encontrei vários outros sites dizendo que na história desses bairros houveram muita violência, mas que já havia sido contida e que as preocauções seriam a mesma que se estivesse em qualquer bairro de Manhattan.   
 
-Porém mesmo com bastante pesquisa com o roteiro bem programada e organizado, algumas vezes precisei pedir informação principalmente na hora de pegar o metrô, então quando isso aconteceu sempre perguntei para os policiais que todas as vezes foram muito educados e solícitos a dar informações precisas sobre o que estava perguntando.
+Ainda mesmo com muita pesquisa e com o roteiro bem programado e organizado, algumas vezes precisei pedir informação principalmente na hora de pegar o metrô, então quando isso aconteceu sempre perguntei para os policiais que todas as vezes foram muito educados e solícitos a dar informações precisas sobre o que estava perguntando.
 
 {% include image.html url="/imagens/post_10/grandcentralstation.jpg" description="Esse é o famoso Grand Central Terminal, aqui é possível comprar passagens de trêm e ônibus. As estações de metrô, trêm e ônibus são muito bem sinalizadas, então é bem fácil de se virar e encontrar a informação que precisa, mas se mesmo assim você é como eu, precisa confirmar com alguém que está no caminho certo sempre tem um policial amigo para te ajudar. " %}
 
@@ -67,7 +67,9 @@ Porém mesmo com bastante pesquisa com o roteiro bem programada e organizado, al
 **Inglês**
 
 Acredito que a barreira da língua seja um dos motivos que muitas pessoas desistem de viajar sozinha (o), por medo de não conseguir se comunicar, se perder, não conseguir nem pedir uma comida ou coisa assim, o que eu posso dizer com minha experiência é que você não vai ser nem o primeiro nem o último turista (principalmente em NY) que não fala inglês lá.
-Meu inglês é avançado, então para mim não foi um problema, mas vi muitas pessoas, inclusive brasileiros que usavam mímicas, números, cardápios, mapas para tentar se comunicar e conseguiam o que queriam. 
+
+Meu inglês é avançado, então para mim não foi um problema, mas vi muitas pessoas, inclusive brasileiros que usavam mímicas, números, cardápios, mapas para tentar se comunicar e conseguiam o que queriam.
+
 Então se você sabe poucas palavras em inglês, não deixe que isso se torne uma barreira para viajar sozinha (o), tudo é uma questão de vontade e oportunidade, pois com certeza o fato de não ter ninguém para dizer o que é aquilo, comprar algo para você ou te dizer vem cá é por esse caminho é desafiador mas faz disso uma vitória pessoal que curso de inglês nenhum pode te proporcionar.
 
 {% include image.html url="/imagens/post_10/museus.jpg" description="NY tem uma quantidade enorme de museus, tem museu de quase tudo que você possa imaginar e vale muito a pena visitá-los, porém se seu inglês não é aquela maravilha recomendo que você tenha um dicionário de bolso, para te ajudar a entender algumas obras em exposição, porque tem algumas coisas que só lendo a legenda pra entender. Essa foto é no museu de história natural; local onde que se passa o filme 'Uma noite no museu', com certeza esse foi um dos museus mais legal que visitei." %}
